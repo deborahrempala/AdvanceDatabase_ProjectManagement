@@ -1,0 +1,1003 @@
+Title  First    Last        Address              City              State   Zip     Age   Salary       Email                           
+----------------------------------------------------------------------------------------------------------------------------------
+Mr.    Julie    Ford        1403   Hufflepuff    New York City     NY      10001   49    205566       JulieFord@aol.com
+Mr.    Trevor   Sanders     9648   Kennedy       St.Clair Shores   MI      48081   61    102730       TrevorSanders@gmail.com
+Dr.    Sam      Johnson     9262   Rain          Cleveland         OH      44101   23    127191       SamJohnson@outlook.com
+Rvd.   Dennis   Whiteman    8125   Hughes        St.Clair Shores   MI      48081   25    210171       DennisWhiteman@clever.com
+Mrs.   James    Thornberry  6082   Turnip        Chicago           IL      60290   58    193300       JamesThornberry@outlook.com
+Mr.    April    Bonner      4742   Hufflepuff    Cleveland         OH      44101   71    125529       AprilBonner@yahoo.com
+Ms.    Frank    Daniels     1495   Tree          Orlando           FL      32805   47    147844       FrankDaniels@outlook.com
+Ms.    Katie    Kroger      5751   Lions         Sault Ste. Marie  MI      49783   38    163983       KatieKroger@clever.com
+Mrs.   Julie    Jenkins     7517   LakeShore     Los Angeles       CA      90005   56    126442       JulieJenkins@outlook.com
+Mr.    Brittany Roda        1366   Sun           New York City     NY      10001   23    109088       BrittanyRoda@clever.com
+Mrs.   George   Pickles     9941   Wombat        Detroit           MI      48224   66    167334       GeorgePickles@aol.com
+Mrs.   Caroline Archer      1282   Pear          Detroit           MI      48224   68    221515       CarolineArcher@clever.com
+Mr.    James    Roda        4413   December      Grand Rapids      MI      49505   21    167799       JamesRoda@aol.com
+Mrs.   Dennis   Evans       6635   July          Grand Rapids      MI      49505   39    207353       DennisEvans@clever.com
+Mrs.   Trace    Bonner      2931   Troll         Grand Rapids      MI      49505   32    185620       TraceBonner@clever.com
+Mrs.   Frank    Dotski      6405   Lighting      Detroit           MI      48224   75    163940       FrankDotski@aol.com
+Ms.    Matt     Archer      8659   Sun           Sault Ste. Marie  MI      49783   24    143196       MattArcher@clever.com
+Rvd.   Wanda    Archer      8047   LakeShore     Detroit           MI      48224   52    216471       WandaArcher@aol.com
+Mrs.   Blake    Minaker     9614   Ocean         Sault Ste. Marie  MI      49783   71    206089       BlakeMinaker@clever.com
+Rvd.   Jean     Hunt        6055   Java          Nashville         TN      37206   30    106145       JeanHunt@clever.com
+Ms.    Paige    Friedline   6257   Monday        Chicago           IL      60290   37    104569       PaigeFriedline@outlook.com
+Dr.    Ron      Archer      6570   Hogwarts      Grand Rapids      MI      49505   72    120580       RonArcher@aol.com
+Ms.    Nevile   Kane        9868   Bread         Sault Ste. Marie  MI      49783   23    171301       NevileKane@clever.com
+Mr.    Karen    Roda        7897   High          Grand Rapids      MI      49505   41    173982       KarenRoda@clever.com
+Mr.    Sarah    Dumbledore  7935   LakeView      Sault Ste. Marie  MI      49783   24    101087       SarahDumbledore@aol.com
+Rvd.   John     Black       8035   Friday        Los Angeles       CA      90005   69    184611       JohnBlack@clever.com
+Rvd.   Geno     Johnson     2326   LakeView      Los Angeles       CA      90005   66    185332       GenoJohnson@aol.com
+Mrs.   Robert   Wallo       8582   Lighting      Chicago           IL      60290   53    212524       RobertWallo@aol.com
+Mr.    Kevin    Hill        8591   Kleene        Los Angeles       CA      90005   55    191997       KevinHill@outlook.com
+Ms.    Fred     Spears      2674   Bears         Sault Ste. Marie  MI      49783   50    180766       FredSpears@aol.com
+Mrs.   Raymond  Moody       9113   Java          Grand Rapids      MI      49505   40    181031       RaymondMoody@gmail.com
+Dr.    Luna     Minaker     3244   Easterday     Los Angeles       CA      90005   47    108609       LunaMinaker@aol.com
+Rvd.   Blake    Bevridge    4582   Thursday      New York City     NY      10001   30    176010       BlakeBevridge@clever.com
+Dr.    Jack     Dotski      4032   Tigers        Nashville         TN      37206   29    139253       JackDotski@clever.com
+Rvd.   Luke     Mosbey      1858   Hufflepuff    Detroit           MI      48224   36    103819       LukeMosbey@clever.com
+Mr.    Wanda    Mosbey      2539   Salad         Detroit           MI      48224   34    223157       WandaMosbey@clever.com
+Rvd.   Kevin    Genovia     8719   Cook          Sault Ste. Marie  MI      49783   18    180613       KevinGenovia@yahoo.com
+Mrs.   Scott    Xiu         5460   Hufflepuff    New York City     NY      10001   55    100739       ScottXiu@outlook.com
+Rvd.   ElizabethRoss        8697   Jane          St.Clair Shores   MI      48081   21    158118       ElizabethRoss@gmail.com
+Ms.    Julie    Kroger      7181   Sherman       Grand Rapids      MI      49505   31    183795       JulieKroger@yahoo.com
+Mrs.   Emily    Kelly       3327   Dotski        Grand Rapids      MI      49505   46    184352       EmilyKelly@outlook.com
+Ms.    Frank    Turner      4833   Wind          New York City     NY      10001   27    126740       FrankTurner@aol.com
+Rvd.   Michelle Turner      7162   Lighting      Orlando           FL      32805   23    197330       MichelleTurner@yahoo.com
+Mrs.   Blake    Boyd        9857   Pear          Cleveland         OH      44101   57    144779       BlakeBoyd@aol.com
+Rvd.   Trevor   Snape       1738   Wombat        Chicago           IL      60290   28    109382       TrevorSnape@gmail.com
+Ms.    Paul     Roda        1463   Gates         Chicago           IL      60290   69    133439       PaulRoda@clever.com
+Ms.    Ethel    Hunt        6739   Lions         Detroit           MI      48224   60    102428       EthelHunt@gmail.com
+Mr.    Trevor   Whiteman    7289   Gryfindor     Los Angeles       CA      90005   55    141476       TrevorWhiteman@yahoo.com
+Ms.    Hannah   Ford        6331   Giraff        Cleveland         OH      44101   28    118081       HannahFord@outlook.com
+Ms.    Brian    Howard      4309   Bears         New York City     NY      10001   28    211158       BrianHoward@yahoo.com
+Rvd.   Blake    Hill        7053   Steller       Sault Ste. Marie  MI      49783   47    217832       BlakeHill@clever.com
+Mr.    Robert   Sun         3993   Wombat        Nashville         TN      37206   69    166728       RobertSun@outlook.com
+Mr.    Jack     Williams    5463   Plute         Orlando           FL      32805   73    213998       JackWilliams@aol.com
+Mr.    Molly    Senders     6325   Sherman       Nashville         TN      37206   70    219905       MollySenders@aol.com
+Dr.    Sarah    Bones       7339   Ocean         New York City     NY      10001   42    136267       SarahBones@gmail.com
+Mrs.   Ann      Johnson     6047   Ravenclaw     Grand Rapids      MI      49505   64    174851       AnnJohnson@aol.com
+Rvd.   Susaun   Carlson     9186   Pines         Sault Ste. Marie  MI      49783   69    145398       SusaunCarlson@yahoo.com
+Mr.    Laura    Rempala     7598   Thursday      Sault Ste. Marie  MI      49783   33    123618       LauraRempala@outlook.com
+Ms.    Harry    Stump       9496   Storm         St.Clair Shores   MI      48081   66    218550       HarryStump@clever.com
+Rvd.   Sarah    Johnson     9231   Sunny         New York City     NY      10001   77    136896       SarahJohnson@clever.com
+Mr.    Connie   James       6997   Giraff        Chicago           IL      60290   47    123305       ConnieJames@aol.com
+Mr.    Emily    Baker       2230   Sunshine      Cleveland         OH      44101   30    140543       EmilyBaker@yahoo.com
+Mrs.   Blake    Baker       5547   Kleene        New York City     NY      10001   32    182100       BlakeBaker@aol.com
+Dr.    Megan    Dotski      1140   Lake          Chicago           IL      60290   65    200966       MeganDotski@clever.com
+Ms.    Kevin    Moody       7113   Apple         Los Angeles       CA      90005   20    149122       KevinMoody@clever.com
+Ms.    Jean     Meijer      6103   Java          Chicago           IL      60290   70    216641       JeanMeijer@yahoo.com
+Mr.    Hannah   Gates       6108   Gates         Nashville         TN      37206   19    218299       HannahGates@gmail.com
+Ms.    Raymond  Jenkins     8311   Tigers        Nashville         TN      37206   48    161162       RaymondJenkins@yahoo.com
+Ms.    Trace    Sanders     2019   Ocean         Nashville         TN      37206   39    104034       TraceSanders@outlook.com
+Ms.    Taylor   Wentz       5864   Walabey       Orlando           FL      32805   36    209874       TaylorWentz@gmail.com
+Dr.    Taylor   Keene       1432   Sherman       Nashville         TN      37206   73    203238       TaylorKeene@yahoo.com
+Rvd.   Colton   Baker       6250   River         Los Angeles       CA      90005   59    124338       ColtonBaker@gmail.com
+Rvd.   Trevor   Senders     1185   Gaffke        Nashville         TN      37206   49    123280       TrevorSenders@gmail.com
+Ms.    Deborah  Williams    7933   Easterday     Los Angeles       CA      90005   68    177908       DeborahWilliams@yahoo.com
+Rvd.   Chris    Cook        2290   Java          New York City     NY      10001   27    203891       ChrisCook@outlook.com
+Rvd.   Eric     Kroger      9340   Flower        Sault Ste. Marie  MI      49783   43    159860       EricKroger@outlook.com
+Ms.    Sarah    Wilson      4237   Lighting      Los Angeles       CA      90005   29    113827       SarahWilson@outlook.com
+Mrs.   Fred     Evans       9426   Pines         New York City     NY      10001   18    205284       FredEvans@outlook.com
+Ms.    Amy      Hart        9773   Bestie        New York City     NY      10001   72    143927       AmyHart@outlook.com
+Ms.    Paul     Gates       2850   Oaks          Los Angeles       CA      90005   26    131180       PaulGates@yahoo.com
+Rvd.   Ethel    Genovia     1294   Bestie        New York City     NY      10001   31    186496       EthelGenovia@aol.com
+Ms.    Jennie   Winchester  8676   Jane          Sault Ste. Marie  MI      49783   57    216072       JennieWinchester@yahoo.com
+Rvd.   Abigail  Steller     4037   Short         Sault Ste. Marie  MI      49783   60    164739       AbigailSteller@yahoo.com
+Mrs.   Dennis   Roda        2867   Wind          Chicago           IL      60290   40    117204       DennisRoda@aol.com
+Mrs.   Trace    Daniels     2152   Bestie        Grand Rapids      MI      49505   65    217427       TraceDaniels@clever.com
+Mrs.   Wanda    James       9098   Troll         Detroit           MI      48224   19    156470       WandaJames@gmail.com
+Mrs.   Susaun   James       4506   Turnip        Chicago           IL      60290   67    139822       SusaunJames@outlook.com
+Dr.    Trevor   Fields      4848   LakeShore     Orlando           FL      32805   69    131649       TrevorFields@gmail.com
+Mr.    Larry    Wallo       3899   Walabey       Cleveland         OH      44101   36    195601       LarryWallo@clever.com
+Ms.    Amy      Microsoft   2113   Kleene        Nashville         TN      37206   57    165591       AmyMicrosoft@clever.com
+Ms.    Paul     Potter      7045   Dotski        Cleveland         OH      44101   43    169957       PaulPotter@yahoo.com
+Dr.    Luna     Hartman     3396   Lighting      Nashville         TN      37206   48    154859       LunaHartman@yahoo.com
+Ms.    Kelly    Reed        2573   SouthLake     Detroit           MI      48224   38    112994       KellyReed@outlook.com
+Mrs.   Paige    Wilson      5359   River         New York City     NY      10001   47    195921       PaigeWilson@outlook.com
+Rvd.   Patty    Baker       5515   Hogwarts      New York City     NY      10001   35    139321       PattyBaker@gmail.com
+Mr.    April    Malfoy      1103   Kennedy       New York City     NY      10001   41    174240       AprilMalfoy@aol.com
+Dr.    Megan    Jenkins     3412   July          St.Clair Shores   MI      48081   55    177283       MeganJenkins@clever.com
+Mr.    Dylan    Palmers     3207   Friedline     New York City     NY      10001   52    109549       DylanPalmers@clever.com
+Dr.    Paige    Verlander   2855   Storm         Chicago           IL      60290   21    118592       PaigeVerlander@gmail.com
+Mrs.   Harry    Perez       3416   Beer          New York City     NY      10001   73    202935       HarryPerez@gmail.com
+Mr.    Trevor   Turner      4766   Flower        Chicago           IL      60290   26    199381       TrevorTurner@aol.com
+Dr.    Sarah    Evans       5981   Tigers        Los Angeles       CA      90005   28    219222       SarahEvans@outlook.com
+Ms.    ElizabethCarlson     6848   Giraff        Los Angeles       CA      90005   51    117296       ElizabethCarlson@clever.com
+Ms.    Ryan     Long        2693   Hogwarts      Nashville         TN      37206   73    168214       RyanLong@outlook.com
+Mrs.   Jean     Jobs        7686   Thunder       Nashville         TN      37206   68    119092       JeanJobs@yahoo.com
+Rvd.   Raymond  Turner      2562   Turnip        Nashville         TN      37206   62    138289       RaymondTurner@outlook.com
+Mr.    Jean     Dumbledore  4623   Pines         Orlando           FL      32805   64    134098       JeanDumbledore@outlook.com
+Mr.    Hannah   Stump       3003   Thursday      Orlando           FL      32805   73    154514       HannahStump@yahoo.com
+Ms.    Paige    Rausch      6357   Beer          Orlando           FL      32805   31    174275       PaigeRausch@yahoo.com
+Ms.    Sarah    Wentz       3257   Ocean         Los Angeles       CA      90005   72    122489       SarahWentz@outlook.com
+Mrs.   Scott    Jobs        1165   Sunny         Grand Rapids      MI      49505   61    167359       ScottJobs@yahoo.com
+Ms.    Larry    Weasley     9298   Sherman       Sault Ste. Marie  MI      49783   65    120051       LarryWeasley@clever.com
+Mr.    James    Genovia     3605   Short         Detroit           MI      48224   50    215754       JamesGenovia@yahoo.com
+Mr.    Cody     Rausch      2070   Stone         Orlando           FL      32805   34    187336       CodyRausch@gmail.com
+Mr.    Robert   Long        7646   LakeShore     Grand Rapids      MI      49505   70    139203       RobertLong@clever.com
+Rvd.   Dennis   Potter      4984   Thunder       Detroit           MI      48224   21    117041       DennisPotter@outlook.com
+Mr.    Caroline Hunt        6693   Bonner        Orlando           FL      32805   47    199834       CarolineHunt@yahoo.com
+Dr.    Robert   Wentz       8198   Giraff        Sault Ste. Marie  MI      49783   62    135147       RobertWentz@clever.com
+Ms.    Michelle Hill        2327   Dotski        Nashville         TN      37206   29    156734       MichelleHill@clever.com
+Mrs.   Fred     Xiu         8752   Monday        Orlando           FL      32805   74    151596       FredXiu@gmail.com
+Mr.    Brittany Archer      8392   Jane          Grand Rapids      MI      49505   21    192777       BrittanyArcher@yahoo.com
+Ms.    Susaun   Wallo       5695   Steller       Sault Ste. Marie  MI      49783   67    116939       SusaunWallo@gmail.com
+Rvd.   Paige    Bones       2845   Horse         Cleveland         OH      44101   60    162897       PaigeBones@yahoo.com
+Dr.    Draco    Turner      3564   Lions         New York City     NY      10001   53    112080       DracoTurner@clever.com
+Rvd.   Alice    Thornberry  2391   Lighting      Chicago           IL      60290   64    143086       AliceThornberry@clever.com
+Dr.    Scott    Archer      4261   Reed          St.Clair Shores   MI      48081   68    148643       ScottArcher@aol.com
+Mrs.   Luna     Bevridge    5019   LakeShore     Nashville         TN      37206   23    181694       LunaBevridge@outlook.com
+Mrs.   Molly    Keene       2247   Bears         New York City     NY      10001   33    147227       MollyKeene@outlook.com
+Ms.    Paul     Johnson     9565   Tigers        Grand Rapids      MI      49505   29    207773       PaulJohnson@aol.com
+Ms.    Robert   Kelly       7398   Easterday     Grand Rapids      MI      49505   20    161388       RobertKelly@aol.com
+Ms.    Brittany Winchester  6879   Ocean         Grand Rapids      MI      49505   19    133040       BrittanyWinchester@clever.com
+Ms.    Abigail  Kane        5902   Lighting      St.Clair Shores   MI      48081   65    121026       AbigailKane@outlook.com
+Dr.    Jennie   Pickles     6466   Pear          Nashville         TN      37206   52    148227       JenniePickles@aol.com
+Ms.    Caroline Hunt        8506   LakeView      Orlando           FL      32805   38    200065       CarolineHunt@clever.com
+Mr.    Cody     Williams    6148   Kennedy       Nashville         TN      37206   38    106369       CodyWilliams@gmail.com
+Mrs.   Nevile   Microsoft   7580   Sun           Detroit           MI      48224   44    177414       NevileMicrosoft@yahoo.com
+Mrs.   Dennis   Randcliff   2320   Sunny         Grand Rapids      MI      49505   47    168944       DennisRandcliff@outlook.com
+Ms.    Fred     Meijer      7161   Jobs          New York City     NY      10001   68    157567       FredMeijer@aol.com
+Mr.    Daisy    Meijer      5614   Thunder       Grand Rapids      MI      49505   60    155466       DaisyMeijer@aol.com
+Mrs.   Nevile   Wilson      4594   Friday        Nashville         TN      37206   50    103472       NevileWilson@outlook.com
+Dr.    Abigail  Archer      6296   Stream        Los Angeles       CA      90005   21    169475       AbigailArcher@gmail.com
+Ms.    Ron      Stump       7863   Plute         Los Angeles       CA      90005   41    199522       RonStump@outlook.com
+Dr.    Taylor   Longbottom  8280   Storm         Cleveland         OH      44101   42    217308       TaylorLongbottom@outlook.com
+Mrs.   Robert   Weasley     3022   Troll         St.Clair Shores   MI      48081   72    116233       RobertWeasley@gmail.com
+Rvd.   James    Malfoy      4644   Ravenclaw     Sault Ste. Marie  MI      49783   64    101025       JamesMalfoy@aol.com
+Dr.    George   Li          7221   Friday        Los Angeles       CA      90005   69    205445       GeorgeLi@gmail.com
+Mrs.   Frank    Perez       6096   Hughes        Los Angeles       CA      90005   50    175486       FrankPerez@yahoo.com
+Mrs.   Dennis   Sanders     9650   Friedline     Chicago           IL      60290   64    143133       DennisSanders@yahoo.com
+Mr.    Ann      Boyd        6077   Party         Grand Rapids      MI      49505   54    203920       AnnBoyd@clever.com
+Ms.    Ryan     Senders     2093   Wombat        Orlando           FL      32805   43    218478       RyanSenders@yahoo.com
+Ms.    Frank    Spears      5107   River         Los Angeles       CA      90005   50    193240       FrankSpears@outlook.com
+Mr.    Caroline Sherman     3497   River         Nashville         TN      37206   20    113488       CarolineSherman@clever.com
+Dr.    ElizabethLongbottom  6033   Troll         Nashville         TN      37206   27    208147       ElizabethLongbottom@yahoo.com
+Mr.    Ron      Williams    3493   December      Chicago           IL      60290   68    193820       RonWilliams@gmail.com
+Ms.    Katie    Sun         8021   Slytherin     Cleveland         OH      44101   35    127632       KatieSun@yahoo.com
+Mrs.   Susaun   Turner      2350   Troll         Orlando           FL      32805   60    136310       SusaunTurner@yahoo.com
+Mr.    James    Lovegood    5259   LakeView      Grand Rapids      MI      49505   25    221204       JamesLovegood@yahoo.com
+Mrs.   Paige    Snape       7229   Salad         Nashville         TN      37206   72    201094       PaigeSnape@outlook.com
+Mrs.   Molly    Stump       1810   Walabey       Detroit           MI      48224   74    220026       MollyStump@gmail.com
+Mr.    Matt     Williams    9261   Stream        St.Clair Shores   MI      48081   59    178605       MattWilliams@outlook.com
+Mr.    Ryan     Steller     2917   Turnip        Nashville         TN      37206   22    138357       RyanSteller@outlook.com
+Mrs.   Paige    Daniels     8370   Dolphin       St.Clair Shores   MI      48081   35    133263       PaigeDaniels@clever.com
+Mr.    Hannah   Bonner      3194   Stream        Nashville         TN      37206   30    107144       HannahBonner@aol.com
+Mr.    Karen    Reed        8384   Sunny         Sault Ste. Marie  MI      49783   40    141285       KarenReed@aol.com
+Rvd.   Janet    Spears      4281   Troll         Sault Ste. Marie  MI      49783   26    222720       JanetSpears@yahoo.com
+Mrs.   Shawn    Friedline   8750   LakeView      New York City     NY      10001   21    189508       ShawnFriedline@yahoo.com
+Ms.    William  Winchester  3495   Horse         Cleveland         OH      44101   37    103720       WilliamWinchester@aol.com
+Dr.    Susaun   Ford        1677   Hart          Chicago           IL      60290   73    110536       SusaunFord@gmail.com
+Dr.    Shawn    Bonner      7466   Friday        Cleveland         OH      44101   73    174251       ShawnBonner@clever.com
+Mr.    Jose     Pickles     1504   Hill          St.Clair Shores   MI      48081   77    164503       JosePickles@clever.com
+Mrs.   Julie    Cox         8672   Bestie        St.Clair Shores   MI      48081   41    164209       JulieCox@outlook.com
+Mr.    Janice   Sherman     1671   Kleene        New York City     NY      10001   51    140293       JaniceSherman@outlook.com
+Mrs.   Dennis   Bones       9391   Bears         St.Clair Shores   MI      48081   57    200855       DennisBones@outlook.com
+Mr.    ElizabethSmith       2276   December      Chicago           IL      60290   36    188276       ElizabethSmith@outlook.com
+Dr.    Dylan    Minaker     7615   Noodles       Detroit           MI      48224   35    106993       DylanMinaker@clever.com
+Ms.    George   Meijer      5453   SouthLake     St.Clair Shores   MI      48081   57    215545       GeorgeMeijer@aol.com
+Ms.    Julie    Moody       8488   Ravenclaw     New York City     NY      10001   54    202856       JulieMoody@aol.com
+Mr.    Luke     Cox         4321   Wombat        St.Clair Shores   MI      48081   77    197267       LukeCox@yahoo.com
+Mr.    April    Johnson     7053   Steller       Sault Ste. Marie  MI      49783   61    182056       AprilJohnson@clever.com
+Mrs.   Ryan     Weasley     8044   LakeShore     Cleveland         OH      44101   31    119288       RyanWeasley@clever.com
+Mrs.   Brittany Roda        9175   Sunshine      Grand Rapids      MI      49505   18    159437       BrittanyRoda@aol.com
+Mr.    Laura    Hartman     3435   Reed          Chicago           IL      60290   20    127238       LauraHartman@aol.com
+Rvd.   Matt     Jobs        5240   Gryfindor     Sault Ste. Marie  MI      49783   67    155061       MattJobs@clever.com
+Dr.    Luna     Wilson      7444   Slytherin     New York City     NY      10001   72    222510       LunaWilson@aol.com
+Mr.    Harry    Potter      4359   Stone         Orlando           FL      32805   38    100483       HarryPotter@outlook.com
+Dr.    Frank    Genovia     2134   Easterday     Sault Ste. Marie  MI      49783   19    211315       FrankGenovia@clever.com
+Mr.    Raymond  Microsoft   5603   Plute         Grand Rapids      MI      49505   18    191539       RaymondMicrosoft@clever.com
+Ms.    Frank    Carlson     9854   Lake          Chicago           IL      60290   53    212031       FrankCarlson@yahoo.com
+Rvd.   George   Li          9842   Bonner        Sault Ste. Marie  MI      49783   43    110983       GeorgeLi@yahoo.com
+Mr.    Scott    Weasley     9111   Jane          Los Angeles       CA      90005   22    116136       ScottWeasley@yahoo.com
+Mrs.   John     Chevy       3190   Jane          Chicago           IL      60290   24    162206       JohnChevy@gmail.com
+Ms.    Taylor   Black       4635   Orange        Grand Rapids      MI      49505   33    162731       TaylorBlack@outlook.com
+Ms.    Adam     Ross        6075   Sunny         Cleveland         OH      44101   54    209938       AdamRoss@clever.com
+Rvd.   Frank    Evans       9810   LSSU          Sault Ste. Marie  MI      49783   50    107071       FrankEvans@aol.com
+Ms.    Taylor   Gates       3034   Lake          Nashville         TN      37206   41    176424       TaylorGates@aol.com
+Mr.    Judy     Kroger      8709   High          St.Clair Shores   MI      48081   61    105659       JudyKroger@yahoo.com
+Rvd.   Jennie   Jobs        5106   Sun           Cleveland         OH      44101   72    154894       JennieJobs@clever.com
+Mr.    Dennis   Daniels     9567   Ravenclaw     Nashville         TN      37206   51    140736       DennisDaniels@outlook.com
+Mr.    Ginny    Potter      3048   Dolphin       Sault Ste. Marie  MI      49783   28    158890       GinnyPotter@yahoo.com
+Ms.    Amy      Mosbey      5276   Lua           Cleveland         OH      44101   18    191939       AmyMosbey@aol.com
+Rvd.   Megan    Johnson     4490   Party         New York City     NY      10001   26    145234       MeganJohnson@clever.com
+Dr.    Luke     Wallo       3230   Perl          Detroit           MI      48224   32    162725       LukeWallo@gmail.com
+Rvd.   Brian    Chevy       2812   Bestie        Los Angeles       CA      90005   71    207924       BrianChevy@gmail.com
+Ms.    ElizabethSpears      6548   Tigers        Nashville         TN      37206   77    221289       ElizabethSpears@aol.com
+Rvd.   George   Kelly       3200   Salad         New York City     NY      10001   67    183435       GeorgeKelly@aol.com
+Rvd.   Wanda    Howard      4696   LakeShore     Los Angeles       CA      90005   72    136524       WandaHoward@aol.com
+Dr.    Geno     Wilson      9649   December      Grand Rapids      MI      49505   74    108382       GenoWilson@yahoo.com
+Ms.    Susaun   Rempala     1140   Lake          New York City     NY      10001   34    175081       SusaunRempala@outlook.com
+Ms.    Julie    Wallo       9814   July          New York City     NY      10001   42    216857       JulieWallo@clever.com
+Mr.    Larry    Toutant     6031   May           New York City     NY      10001   53    211127       LarryToutant@outlook.com
+Ms.    Adam     Stump       2686   Hufflepuff    Sault Ste. Marie  MI      49783   77    149056       AdamStump@gmail.com
+Mrs.   Dennis   Rausch      8242   Jobs          Sault Ste. Marie  MI      49783   52    180243       DennisRausch@clever.com
+Mrs.   Blake    Ross        5513   Hogwarts      Orlando           FL      32805   65    118299       BlakeRoss@yahoo.com
+Ms.    Ethel    Johnson     6017   Beer          New York City     NY      10001   18    166800       EthelJohnson@outlook.com
+Mr.    Trace    Archer      5714   LSSU          Orlando           FL      32805   31    138363       TraceArcher@clever.com
+Mrs.   Draco    Potter      9905   Dotski        Nashville         TN      37206   32    190498       DracoPotter@outlook.com
+Mr.    Luke     Meijer      9718   Hill          St.Clair Shores   MI      48081   35    106727       LukeMeijer@outlook.com
+Mr.    Dennis   Bevridge    9584   Moon          Chicago           IL      60290   60    209324       DennisBevridge@outlook.com
+Rvd.   Sam      Microsoft   6402   Lake          Nashville         TN      37206   66    110350       SamMicrosoft@gmail.com
+Mr.    Harry    Kelly       3643   Bonner        Cleveland         OH      44101   67    187892       HarryKelly@aol.com
+Mr.    Matt     Lovegood    9714   Monday        New York City     NY      10001   55    150472       MattLovegood@yahoo.com
+Mr.    Molly    Mosbey      7303   Oaks          New York City     NY      10001   50    126169       MollyMosbey@aol.com
+Ms.    Shawn    Archer      6817   Hogwarts      Chicago           IL      60290   32    154656       ShawnArcher@aol.com
+Ms.    Jennie   Kane        8751   Beer          Nashville         TN      37206   48    175676       JennieKane@aol.com
+Mrs.   Fred     Xiu         4773   LSSU          Grand Rapids      MI      49505   72    214997       FredXiu@aol.com
+Mr.    John     Spears      3231   Ravenclaw     Chicago           IL      60290   69    152524       JohnSpears@outlook.com
+Ms.    Kyle     Mason       4262   Bones         Cleveland         OH      44101   42    149864       KyleMason@outlook.com
+Mr.    Ryan     Chevy       5515   Hughes        Grand Rapids      MI      49505   66    147047       RyanChevy@yahoo.com
+Ms.    Taylor   Bonner      2015   December      New York City     NY      10001   53    202019       TaylorBonner@gmail.com
+Mr.    Paige    Bevridge    5021   Thunder       Detroit           MI      48224   51    191265       PaigeBevridge@clever.com
+Ms.    Trace    Stump       1967   Rain          Los Angeles       CA      90005   38    197343       TraceStump@aol.com
+Ms.    Chris    Ross        5257   Ocean         Chicago           IL      60290   50    182131       ChrisRoss@aol.com
+Ms.    Ann      James       6290   Troll         Orlando           FL      32805   26    125283       AnnJames@gmail.com
+Mr.    Cody     Spears      5625   Bonner        Nashville         TN      37206   33    168990       CodySpears@gmail.com
+Mrs.   Sam      Cox         2286   Bread         Cleveland         OH      44101   53    213332       SamCox@yahoo.com
+Mrs.   Julie    Spears      8076   Stone         St.Clair Shores   MI      48081   20    221657       JulieSpears@gmail.com
+Mrs.   Frank    Dumbledore  5160   Bonner        Orlando           FL      32805   47    114598       FrankDumbledore@yahoo.com
+Rvd.   Trace    Boyd        8029   High          Detroit           MI      48224   48    148951       TraceBoyd@clever.com
+Mrs.   Polly    Cox         5111   LakeShore     New York City     NY      10001   52    195438       PollyCox@outlook.com
+Ms.    Kevin    Sanders     4206   Giraff        Chicago           IL      60290   69    206458       KevinSanders@outlook.com
+Ms.    Dennis   Malfoy      1281   LSSU          Sault Ste. Marie  MI      49783   77    209214       DennisMalfoy@aol.com
+Mrs.   Amy      Johnson     2436   Bonner        Grand Rapids      MI      49505   61    179397       AmyJohnson@gmail.com
+Mr.    Jessica  Chevy       2894   Pear          Detroit           MI      48224   60    144218       JessicaChevy@clever.com
+Mr.    Abigail  Li          6700   Oaks          Sault Ste. Marie  MI      49783   60    111074       AbigailLi@outlook.com
+Mr.    ElizabethSanders     6128   Jobs          Cleveland         OH      44101   44    162820       ElizabethSanders@gmail.com
+Mrs.   Wanda    Reed        8774   Bread         Grand Rapids      MI      49505   50    191759       WandaReed@aol.com
+Ms.    Kelly    Baker       5724   Turnip        Orlando           FL      32805   52    152048       KellyBaker@clever.com
+Mr.    Geno     Carlson     3156   Slytherin     Chicago           IL      60290   54    214120       GenoCarlson@gmail.com
+Rvd.   Adam     Smith       3541   Sunshine      Los Angeles       CA      90005   71    203104       AdamSmith@outlook.com
+Mr.    Kelly    Wilson      8840   Bestie        New York City     NY      10001   28    171728       KellyWilson@gmail.com
+Ms.    Paige    Microsoft   3830   Dolphin       New York City     NY      10001   29    119477       PaigeMicrosoft@aol.com
+Ms.    Jennie   Moody       4372   Orange        Orlando           FL      32805   49    167997       JennieMoody@yahoo.com
+Ms.    Dennis   Pickles     8806   Monday        Cleveland         OH      44101   41    200948       DennisPickles@outlook.com
+Mrs.   Caroline Baker       9563   Tree          Chicago           IL      60290   27    200924       CarolineBaker@clever.com
+Mr.    Eric     Ross        6250   Orange        St.Clair Shores   MI      48081   63    145515       EricRoss@outlook.com
+Ms.    Kevin    Senders     2168   Ravenclaw     Chicago           IL      60290   36    129679       KevinSenders@gmail.com
+Dr.    Harry    Weasley     4180   Walrus        New York City     NY      10001   61    136343       HarryWeasley@gmail.com
+Ms.    Judy     Cook        5215   Thunder       Nashville         TN      37206   58    142423       JudyCook@aol.com
+Rvd.   Alice    Ray         1904   Sunny         Chicago           IL      60290   71    172151       AliceRay@clever.com
+Mr.    April    Wallo       4756   Java          Detroit           MI      48224   54    150147       AprilWallo@gmail.com
+Ms.    Jennie   Keene       8413   Salad         Cleveland         OH      44101   47    189325       JennieKeene@aol.com
+Dr.    Julie    Fields      6049   Gryfindor     Grand Rapids      MI      49505   66    164747       JulieFields@yahoo.com
+Ms.    Brittany Randcliff   4116   Walabey       Chicago           IL      60290   31    114916       BrittanyRandcliff@yahoo.com
+Mr.    Sarah    Mason       7324   Party         Cleveland         OH      44101   61    207389       SarahMason@outlook.com
+Mrs.   Ginny    Hartman     7988   Stream        Cleveland         OH      44101   48    111349       GinnyHartman@gmail.com
+Mr.    Raymond  Kane        6987   Jobs          Cleveland         OH      44101   26    132180       RaymondKane@gmail.com
+Mrs.   Kevin    James       3498   Storm         Sault Ste. Marie  MI      49783   38    158548       KevinJames@aol.com
+Mrs.   Trevor   Mosbey      2878   Ravenclaw     New York City     NY      10001   32    119391       TrevorMosbey@outlook.com
+Mrs.   Shawn    Jobs        1582   Vodka         New York City     NY      10001   28    212242       ShawnJobs@outlook.com
+Mr.    Joe      Archer      4032   Troll         Orlando           FL      32805   51    140237       JoeArcher@outlook.com
+Dr.    Abigail  Kroger      4079   Gryfindor     Grand Rapids      MI      49505   72    196456       AbigailKroger@outlook.com
+Ms.    James    Kroger      3056   Storm         St.Clair Shores   MI      48081   56    163305       JamesKroger@yahoo.com
+Mrs.   Susaun   Genovia     6646   July          Sault Ste. Marie  MI      49783   22    184147       SusaunGenovia@clever.com
+Dr.    Hannah   Kelly       8526   Oaks          Sault Ste. Marie  MI      49783   60    175470       HannahKelly@aol.com
+Mr.    Larry    Keene       9399   Sherman       Detroit           MI      48224   38    192266       LarryKeene@clever.com
+Mr.    Trace    Senders     2401   Noodles       Grand Rapids      MI      49505   28    170258       TraceSenders@yahoo.com
+Mr.    Brian    Meijer      4938   Hart          Grand Rapids      MI      49505   60    214210       BrianMeijer@yahoo.com
+Rvd.   Luna     Ross        3085   Lake          Chicago           IL      60290   19    144482       LunaRoss@gmail.com
+Mrs.   Judy     Toutant     6398   Turnip        Detroit           MI      48224   67    161013       JudyToutant@yahoo.com
+Dr.    Kevin    Thornberry  8461   Hogwarts      Detroit           MI      48224   72    222981       KevinThornberry@gmail.com
+Rvd.   Karen    Snape       5378   Tree          Nashville         TN      37206   72    129197       KarenSnape@yahoo.com
+Mr.    Janice   Dotski      7511   Dotski        Grand Rapids      MI      49505   18    206662       JaniceDotski@outlook.com
+Ms.    Draco    Sherman     9278   Java          Detroit           MI      48224   64    169438       DracoSherman@yahoo.com
+Rvd.   James    Evans       5191   Monday        New York City     NY      10001   41    110562       JamesEvans@outlook.com
+Dr.    Robert   Ford        3472   Beer          Orlando           FL      32805   36    214664       RobertFord@outlook.com
+Dr.    Shawn    Keene       3182   Sunny         Chicago           IL      60290   45    194711       ShawnKeene@gmail.com
+Mrs.   Taylor   Kelly       1887   Hughes        Chicago           IL      60290   53    104606       TaylorKelly@outlook.com
+Mrs.   Lori     Pickles     8679   Friday        New York City     NY      10001   69    115415       LoriPickles@gmail.com
+Dr.    Paige    Steller     6456   Stream        Los Angeles       CA      90005   71    146504       PaigeSteller@outlook.com
+Ms.    Emily    Jenkins     9292   Giraff        Chicago           IL      60290   60    181844       EmilyJenkins@yahoo.com
+Rvd.   Emily    Snape       8761   Sunshine      Grand Rapids      MI      49505   68    115340       EmilySnape@clever.com
+Ms.    Luke     Toutant     6473   LSSU          St.Clair Shores   MI      48081   35    119849       LukeToutant@yahoo.com
+Mrs.   Luna     Jenkins     3120   Lions         Sault Ste. Marie  MI      49783   35    147862       LunaJenkins@aol.com
+Mrs.   Julie    Verlander   8233   Hart          St.Clair Shores   MI      48081   57    159845       JulieVerlander@gmail.com
+Ms.    John     Perez       9675   Gates         Los Angeles       CA      90005   53    150391       JohnPerez@clever.com
+Mr.    ElizabethLi          3878   Vodka         Cleveland         OH      44101   28    196868       ElizabethLi@yahoo.com
+Dr.    John     Ross        6359   LSSU          Detroit           MI      48224   33    105550       JohnRoss@yahoo.com
+Rvd.   George   Archer      2757   Sun           Grand Rapids      MI      49505   42    142406       GeorgeArcher@clever.com
+Mr.    Adam     Longbottom  6374   Cook          Orlando           FL      32805   47    121042       AdamLongbottom@outlook.com
+Ms.    Judy     Fields      4987   Jane          St.Clair Shores   MI      48081   69    148901       JudyFields@clever.com
+Mr.    Matt     Dumbledore  4026   Flower        Cleveland         OH      44101   42    140561       MattDumbledore@outlook.com
+Mr.    Jack     Winchester  2997   LakeView      Detroit           MI      48224   56    116050       JackWinchester@outlook.com
+Dr.    Amy      Bonner      4313   Monday        Orlando           FL      32805   57    223367       AmyBonner@aol.com
+Ms.    Michelle Johnson     9809   Party         Detroit           MI      48224   67    188215       MichelleJohnson@outlook.com
+Mr.    Paul     Ford        6452   Wombat        Los Angeles       CA      90005   46    125905       PaulFord@clever.com
+Mrs.   Katie    Whiteman    6298   Wind          Chicago           IL      60290   46    120247       KatieWhiteman@gmail.com
+Mrs.   Karen    Lovegood    7782   Gaffke        Nashville         TN      37206   69    133353       KarenLovegood@gmail.com
+Rvd.   Kyle     Senders     9106   Ocean         Chicago           IL      60290   48    120646       KyleSenders@outlook.com
+Mr.    Patty    Winchester  5132   Tigers        Grand Rapids      MI      49505   45    187035       PattyWinchester@outlook.com
+Dr.    Joe      Jobs        5671   Ravenclaw     Chicago           IL      60290   75    212299       JoeJobs@clever.com
+Ms.    Robert   Sherman     6992   Salad         Grand Rapids      MI      49505   42    179446       RobertSherman@aol.com
+Ms.    Wanda    Pickles     1075   Walabey       Orlando           FL      32805   24    107479       WandaPickles@gmail.com
+Ms.    Polly    Lovegood    5209   Lighting      Sault Ste. Marie  MI      49783   70    203177       PollyLovegood@gmail.com
+Mrs.   Sarah    Winchester  6816   Lake          Sault Ste. Marie  MI      49783   71    197135       SarahWinchester@gmail.com
+Mr.    Janet    Cook        2026   Thunder       Los Angeles       CA      90005   61    101635       JanetCook@yahoo.com
+Mrs.   Michelle Friedline   1027   Giraff        St.Clair Shores   MI      48081   76    125388       MichelleFriedline@aol.com
+Mrs.   Megan    Randcliff   2682   Lighting      Cleveland         OH      44101   66    124995       MeganRandcliff@gmail.com
+Mrs.   Michelle Hart        5073   Stream        New York City     NY      10001   59    148612       MichelleHart@aol.com
+Dr.    Ron      Minaker     8852   Walrus        Detroit           MI      48224   48    103595       RonMinaker@outlook.com
+Ms.    Frank    Daniels     7633   Hart          Los Angeles       CA      90005   70    124263       FrankDaniels@yahoo.com
+Mr.    Ron      Hill        5901   Gryfindor     Chicago           IL      60290   73    132668       RonHill@gmail.com
+Ms.    April    Cox         1111   Tree          Orlando           FL      32805   49    185634       AprilCox@outlook.com
+Mrs.   Taylor   Bell        3675   Friedline     Los Angeles       CA      90005   51    160786       TaylorBell@gmail.com
+Mrs.   Ginny    Bevridge    9715   Gryfindor     Grand Rapids      MI      49505   65    129590       GinnyBevridge@aol.com
+Mr.    June     Kroger      7425   Jane          Detroit           MI      48224   44    174343       JuneKroger@clever.com
+Mr.    Katie    Jenkins     4112   Short         Sault Ste. Marie  MI      49783   57    119871       KatieJenkins@outlook.com
+Rvd.   ElizabethKane        6586   Easterday     Orlando           FL      32805   45    174889       ElizabethKane@outlook.com
+Ms.    Janet    Bones       4271   Sunny         Chicago           IL      60290   43    220692       JanetBones@gmail.com
+Dr.    Susaun   Chevy       8901   Turnip        Chicago           IL      60290   54    145746       SusaunChevy@yahoo.com
+Mr.    Joe      Ross        4904   Jane          Chicago           IL      60290   31    143359       JoeRoss@clever.com
+Mr.    Ethel    Stump       2821   Vodka         St.Clair Shores   MI      48081   26    166422       EthelStump@outlook.com
+Mr.    Dylan    Winchester  8969   Short         Nashville         TN      37206   74    100683       DylanWinchester@yahoo.com
+Mrs.   John     Hunt        8056   Kennedy       New York City     NY      10001   22    119586       JohnHunt@aol.com
+Mr.    Susaun   Kane        5705   Hart          St.Clair Shores   MI      48081   73    105705       SusaunKane@yahoo.com
+Rvd.   Scott    Rausch      4716   Gaffke        Chicago           IL      60290   63    201079       ScottRausch@gmail.com
+Ms.    Adam     Archer      3145   Vodka         Detroit           MI      48224   69    205069       AdamArcher@yahoo.com
+Mr.    Brian    Jenkins     9179   High          Grand Rapids      MI      49505   21    110377       BrianJenkins@outlook.com
+Ms.    Susaun   Sherman     9149   Cook          Grand Rapids      MI      49505   29    182874       SusaunSherman@outlook.com
+Mrs.   Molly    Bevridge    8728   Java          St.Clair Shores   MI      48081   47    219991       MollyBevridge@gmail.com
+Mrs.   Katie    Keys        8182   LakeView      Detroit           MI      48224   21    216797       KatieKeys@yahoo.com
+Mr.    Alice    Randcliff   8877   Lua           Los Angeles       CA      90005   50    189453       AliceRandcliff@yahoo.com
+Mrs.   Colton   Meijer      9684   Perl          Chicago           IL      60290   22    220195       ColtonMeijer@gmail.com
+Mr.    Scott    Mason       3668   Sunshine      Cleveland         OH      44101   51    157147       ScottMason@gmail.com
+Ms.    Chris    Roda        9248   Bestie        Chicago           IL      60290   67    220261       ChrisRoda@outlook.com
+Dr.    Nevile   Keene       1039   Wind          Nashville         TN      37206   54    172985       NevileKeene@outlook.com
+Mrs.   Shawn    Bevridge    4716   Beer          New York City     NY      10001   67    173329       ShawnBevridge@outlook.com
+Mr.    Taylor   Winchester  6012   Troll         Chicago           IL      60290   56    202670       TaylorWinchester@yahoo.com
+Mrs.   Amy      Baker       3160   Giraff        Orlando           FL      32805   65    167103       AmyBaker@aol.com
+Mrs.   Robert   Hartman     4826   Moon          Los Angeles       CA      90005   32    110127       RobertHartman@gmail.com
+Mr.    Ethel    Snape       8567   Gryfindor     Sault Ste. Marie  MI      49783   65    220281       EthelSnape@clever.com
+Ms.    Nevile   Jenkins     1903   Jane          Grand Rapids      MI      49505   58    198077       NevileJenkins@gmail.com
+Mrs.   Jose     Turner      4472   Kennedy       Sault Ste. Marie  MI      49783   18    213269       JoseTurner@outlook.com
+Rvd.   Judy     Hartman     8232   Plute         New York City     NY      10001   40    191578       JudyHartman@gmail.com
+Mr.    Taylor   Palmers     6476   Dotski        Grand Rapids      MI      49505   41    143062       TaylorPalmers@gmail.com
+Mr.    April    Moody       7247   Storm         Chicago           IL      60290   50    122090       AprilMoody@clever.com
+Mr.    Larry    Genovia     9403   High          New York City     NY      10001   41    116809       LarryGenovia@yahoo.com
+Ms.    George   Genovia     8353   Friday        New York City     NY      10001   21    215241       GeorgeGenovia@outlook.com
+Dr.    Dennis   Pickles     7354   Hogwarts      Cleveland         OH      44101   42    149438       DennisPickles@outlook.com
+Dr.    Ann      Keys        8172   December      Chicago           IL      60290   24    220502       AnnKeys@yahoo.com
+Mrs.   Joe      Cox         7150   Moon          Sault Ste. Marie  MI      49783   24    170272       JoeCox@yahoo.com
+Dr.    Dennis   Fields      9466   Sunny         Grand Rapids      MI      49505   75    114428       DennisFields@yahoo.com
+Ms.    Daisy    Hart        1704   Rain          Los Angeles       CA      90005   68    156526       DaisyHart@clever.com
+Mrs.   Polly    Bell        7174   LakeShore     Sault Ste. Marie  MI      49783   59    211724       PollyBell@aol.com
+Mrs.   ChristineWinchester  2360   May           Grand Rapids      MI      49505   58    211050       ChristineWinchester@clever.com
+Dr.    Eric     Daniels     5364   Jobs          St.Clair Shores   MI      48081   63    100637       EricDaniels@outlook.com
+Mrs.   William  Lovegood    6742   Storm         St.Clair Shores   MI      48081   27    107325       WilliamLovegood@aol.com
+Rvd.   ElizabethJames       6022   Thunder       Cleveland         OH      44101   28    181240       ElizabethJames@outlook.com
+Ms.    Amy      Sanders     3984   November      Sault Ste. Marie  MI      49783   68    190838       AmySanders@gmail.com
+Mr.    Raymond  Winchester  2275   SouthLake     Detroit           MI      48224   39    109146       RaymondWinchester@gmail.com
+Mr.    Robert   Snape       5924   Walabey       New York City     NY      10001   26    141312       RobertSnape@aol.com
+Mrs.   Jose     Mosbey      8161   Gaffke        Detroit           MI      48224   40    218043       JoseMosbey@yahoo.com
+Mrs.   Cody     James       7714   Pear          Los Angeles       CA      90005   45    113159       CodyJames@yahoo.com
+Ms.    Alice    Meijer      2612   Turnip        Orlando           FL      32805   35    146564       AliceMeijer@aol.com
+Rvd.   Ann      Ray         9202   Wind          Sault Ste. Marie  MI      49783   45    212179       AnnRay@gmail.com
+Dr.    Wanda    Baker       5156   Flower        Nashville         TN      37206   30    126815       WandaBaker@clever.com
+Dr.    Adam     Mason       4104   LakeView      Orlando           FL      32805   33    160329       AdamMason@yahoo.com
+Dr.    Harry    Senders     7781   Bestie        Cleveland         OH      44101   43    178922       HarrySenders@clever.com
+Dr.    Kelly    Meijer      9201   Stone         Cleveland         OH      44101   63    222460       KellyMeijer@yahoo.com
+Mrs.   Taylor   Sanders     4067   Pear          St.Clair Shores   MI      48081   60    191504       TaylorSanders@aol.com
+Mrs.   Patty    Keene       3068   Orange        Sault Ste. Marie  MI      49783   21    195828       PattyKeene@aol.com
+Rvd.   Jack     Meijer      1380   Salad         Chicago           IL      60290   22    114843       JackMeijer@outlook.com
+Mrs.   Matt     Toutant     6308   Horse         Nashville         TN      37206   32    186997       MattToutant@gmail.com
+Mrs.   Janice   Baker       3306   Lake          Nashville         TN      37206   21    209579       JaniceBaker@yahoo.com
+Rvd.   Amy      Archer      5366   Bonner        Sault Ste. Marie  MI      49783   43    200117       AmyArcher@yahoo.com
+Ms.    ElizabethWentz       9154   Bonner        Nashville         TN      37206   39    111369       ElizabethWentz@yahoo.com
+Mr.    ChristineMeijer      5521   Easterday     Cleveland         OH      44101   50    214113       ChristineMeijer@yahoo.com
+Dr.    Wanda    Verlander   4872   Dolphin       Grand Rapids      MI      49505   57    175178       WandaVerlander@gmail.com
+Mr.    Dylan    Microsoft   5915   Steller       St.Clair Shores   MI      48081   53    207603       DylanMicrosoft@aol.com
+Ms.    Shawn    Meijer      2198   Gates         New York City     NY      10001   42    204960       ShawnMeijer@yahoo.com
+Mrs.   James    Malfoy      6888   Jobs          Detroit           MI      48224   75    164592       JamesMalfoy@yahoo.com
+Dr.    Judy     Rempala     6614   High          Cleveland         OH      44101   61    122347       JudyRempala@clever.com
+Rvd.   Hannah   Minaker     1276   Party         Grand Rapids      MI      49505   33    183746       HannahMinaker@clever.com
+Mr.    Caroline Smith       4319   Bears         St.Clair Shores   MI      48081   69    222767       CarolineSmith@outlook.com
+Dr.    Luke     Rausch      9754   Wind          Detroit           MI      48224   38    154484       LukeRausch@outlook.com
+Dr.    Judy     Pickles     5741   Gaffke        Chicago           IL      60290   40    169418       JudyPickles@clever.com
+Mr.    Dylan    Bell        5173   Pines         Cleveland         OH      44101   55    118987       DylanBell@gmail.com
+Mrs.   Blake    Randcliff   1129   Party         St.Clair Shores   MI      48081   62    102479       BlakeRandcliff@outlook.com
+Dr.    Fred     Dotski      1154   Horse         Nashville         TN      37206   35    123545       FredDotski@yahoo.com
+Mrs.   Frank    Howard      6813   Dotski        Los Angeles       CA      90005   35    102811       FrankHoward@yahoo.com
+Ms.    Brittany Li          6877   Sunny         Orlando           FL      32805   30    215216       BrittanyLi@outlook.com
+Dr.    Paul     Turner      5042   Tree          Orlando           FL      32805   57    203290       PaulTurner@gmail.com
+Mr.    Frank    Bevridge    6568   Dolphin       St.Clair Shores   MI      48081   47    212001       FrankBevridge@outlook.com
+Dr.    Jean     Malfoy      6026   Ravenclaw     Cleveland         OH      44101   60    216048       JeanMalfoy@yahoo.com
+Mr.    Frank    Meijer      9118   Kennedy       Chicago           IL      60290   30    156381       FrankMeijer@outlook.com
+Mr.    Connie   Kelly       5127   Bones         Detroit           MI      48224   70    166732       ConnieKelly@clever.com
+Ms.    Eric     Gates       9652   Jobs          Los Angeles       CA      90005   62    216029       EricGates@yahoo.com
+Dr.    Luke     Microsoft   5846   Moon          New York City     NY      10001   42    133773       LukeMicrosoft@yahoo.com
+Mrs.   Daisy    Li          9558   Tigers        Sault Ste. Marie  MI      49783   21    148093       DaisyLi@aol.com
+Dr.    Luna     Smith       6205   Pear          New York City     NY      10001   75    199336       LunaSmith@yahoo.com
+Mrs.   Jean     Moody       7645   Lake          Sault Ste. Marie  MI      49783   31    167278       JeanMoody@clever.com
+Mr.    Adam     Ross        4146   Slytherin     New York City     NY      10001   39    177015       AdamRoss@yahoo.com
+Mr.    Kevin    Black       9716   Bonner        Orlando           FL      32805   57    185163       KevinBlack@gmail.com
+Ms.    Blake    Jobs        9395   Friday        Cleveland         OH      44101   31    125709       BlakeJobs@outlook.com
+Mr.    Patty    Moody       3350   Walabey       Chicago           IL      60290   57    154245       PattyMoody@clever.com
+Mrs.   Emily    Turner      6136   Pines         Grand Rapids      MI      49505   19    120612       EmilyTurner@clever.com
+Ms.    John     Stump       4132   Kennedy       St.Clair Shores   MI      48081   51    176467       JohnStump@clever.com
+Rvd.   Jessica  Reed        5697   Salad         Cleveland         OH      44101   76    173877       JessicaReed@clever.com
+Mrs.   Ginny    Scott       2014   Gryfindor     Chicago           IL      60290   50    198901       GinnyScott@aol.com
+Mr.    Patty    Rausch      3794   Giraff        Sault Ste. Marie  MI      49783   58    200526       PattyRausch@outlook.com
+Mrs.   John     Archer      7600   Thunder       Grand Rapids      MI      49505   49    123386       JohnArcher@clever.com
+Dr.    Jack     Friedline   2530   Monday        Chicago           IL      60290   77    129384       JackFriedline@yahoo.com
+Mr.    Geno     Microsoft   4047   Hart          Chicago           IL      60290   29    197136       GenoMicrosoft@aol.com
+Dr.    Trevor   Perez       3676   Bears         St.Clair Shores   MI      48081   32    185537       TrevorPerez@aol.com
+Ms.    Brittany Ford        1031   LakeView      Chicago           IL      60290   77    109712       BrittanyFord@clever.com
+Mr.    George   Kelly       7289   Ravenclaw     Los Angeles       CA      90005   29    153130       GeorgeKelly@yahoo.com
+Dr.    Wanda    Stump       9546   December      St.Clair Shores   MI      48081   28    191833       WandaStump@aol.com
+Mrs.   John     Kelly       2370   Apple         Nashville         TN      37206   26    155821       JohnKelly@aol.com
+Ms.    Caroline Sherman     5112   Gryfindor     Orlando           FL      32805   28    119928       CarolineSherman@clever.com
+Dr.    Raymond  Minaker     9869   Hill          Detroit           MI      48224   43    164856       RaymondMinaker@gmail.com
+Mrs.   Ron      Gates       1109   Gaffke        Cleveland         OH      44101   76    143342       RonGates@yahoo.com
+Ms.    Larry    Jobs        5271   Sunny         Chicago           IL      60290   30    189092       LarryJobs@aol.com
+Ms.    Daisy    June        9806   Moon          Detroit           MI      48224   39    184741       DaisyJune@outlook.com
+Dr.    Matt     Chevy       1632   Stream        Chicago           IL      60290   30    110891       MattChevy@clever.com
+Ms.    Harry    Dotski      2966   Lions         Chicago           IL      60290   22    121515       HarryDotski@clever.com
+Dr.    April    Johnson     8415   Monday        Nashville         TN      37206   76    142662       AprilJohnson@clever.com
+Mr.    Jean     Black       1799   Cook          Los Angeles       CA      90005   45    130996       JeanBlack@aol.com
+Ms.    Draco    Sherman     5386   Storm         Los Angeles       CA      90005   60    190692       DracoSherman@yahoo.com
+Mrs.   Shawn    Spears      8519   Reed          Sault Ste. Marie  MI      49783   28    154363       ShawnSpears@aol.com
+Rvd.   Janet    Gates       4569   Java          Cleveland         OH      44101   36    191176       JanetGates@gmail.com
+Mr.    Polly    Cox         5040   Thursday      Detroit           MI      48224   75    214149       PollyCox@clever.com
+Mr.    Ginny    Randcliff   8982   Giraff        Grand Rapids      MI      49505   38    121746       GinnyRandcliff@yahoo.com
+Ms.    Kelly    Palmers     4734   Moon          Los Angeles       CA      90005   31    135639       KellyPalmers@gmail.com
+Mr.    Draco    Evans       1428   Gates         St.Clair Shores   MI      48081   46    192116       DracoEvans@gmail.com
+Mrs.   ElizabethKeys        4619   Orange        Nashville         TN      37206   38    210101       ElizabethKeys@gmail.com
+Dr.    Katie    Mason       2946   Hart          New York City     NY      10001   26    148829       KatieMason@yahoo.com
+Mr.    Colton   Chevy       7070   Jobs          Chicago           IL      60290   70    196249       ColtonChevy@clever.com
+Rvd.   Alice    Kelly       1855   Salad         Los Angeles       CA      90005   32    219752       AliceKelly@gmail.com
+Mrs.   Fred     Wallo       6286   Hufflepuff    Chicago           IL      60290   21    110107       FredWallo@outlook.com
+Ms.    Larry    Ray         5550   Gates         Orlando           FL      32805   24    119797       LarryRay@gmail.com
+Rvd.   Deborah  Sun         6629   Gates         Sault Ste. Marie  MI      49783   54    188360       DeborahSun@outlook.com
+Mrs.   Ann      Microsoft   9692   Sunshine      New York City     NY      10001   69    166461       AnnMicrosoft@gmail.com
+Mrs.   Raymond  Randcliff   9730   May           Detroit           MI      48224   31    113173       RaymondRandcliff@outlook.com
+Dr.    Deborah  Wentz       8902   Plute         Detroit           MI      48224   60    149719       DeborahWentz@gmail.com
+Rvd.   Blake    Xiu         3391   Rain          Cleveland         OH      44101   51    111522       BlakeXiu@outlook.com
+Mrs.   Trevor   Hill        2613   River         Chicago           IL      60290   51    189816       TrevorHill@clever.com
+Ms.    Brian    Palmers     7430   Dolphin       Los Angeles       CA      90005   37    161536       BrianPalmers@yahoo.com
+Dr.    Susaun   Ford        3641   December      Los Angeles       CA      90005   43    152467       SusaunFord@yahoo.com
+Mr.    Ron      Dumbledore  6803   Lighting      Detroit           MI      48224   62    181052       RonDumbledore@yahoo.com
+Ms.    Jose     Sun         3588   Dolphin       Chicago           IL      60290   34    218687       JoseSun@clever.com
+Mrs.   Scott    Cook        3507   Stream        Los Angeles       CA      90005   32    158376       ScottCook@yahoo.com
+Ms.    Karen    Ray         8996   Horse         Grand Rapids      MI      49505   67    129517       KarenRay@aol.com
+Mr.    June     Hill        8384   Ocean         Sault Ste. Marie  MI      49783   27    171477       JuneHill@gmail.com
+Mr.    Ginny    Reed        9446   Lake          St.Clair Shores   MI      48081   58    196131       GinnyReed@aol.com
+Dr.    April    Williams    2398   Thursday      Detroit           MI      48224   26    133783       AprilWilliams@yahoo.com
+Ms.    Janet    Li          2515   November      New York City     NY      10001   63    155468       JanetLi@outlook.com
+Rvd.   Patty    Lovegood    5332   High          Orlando           FL      32805   45    136718       PattyLovegood@aol.com
+Ms.    Patty    Wallo       8044   Apple         Detroit           MI      48224   25    216459       PattyWallo@yahoo.com
+Mr.    Scott    Dotski      3181   Hughes        Detroit           MI      48224   58    129737       ScottDotski@yahoo.com
+Ms.    Katie    Snape       5163   Friedline     New York City     NY      10001   47    199428       KatieSnape@gmail.com
+Ms.    Geno     Keene       8019   Storm         Orlando           FL      32805   30    156110       GenoKeene@gmail.com
+Mr.    Janice   Genovia     1971   Giraff        Los Angeles       CA      90005   28    150816       JaniceGenovia@aol.com
+Dr.    Kyle     Hunt        9939   Rain          Grand Rapids      MI      49505   77    173490       KyleHunt@outlook.com
+Rvd.   Paul     Toutant     6743   Noodles       Cleveland         OH      44101   64    220879       PaulToutant@yahoo.com
+Mrs.   Frank    Hartman     2346   LSSU          Sault Ste. Marie  MI      49783   33    174166       FrankHartman@yahoo.com
+Ms.    Julie    Keys        1297   Sunshine      Chicago           IL      60290   39    102902       JulieKeys@clever.com
+Mrs.   Adam     Malfoy      6971   Short         Detroit           MI      48224   22    222734       AdamMalfoy@gmail.com
+Rvd.   Ryan     Pickles     9195   Thursday      Sault Ste. Marie  MI      49783   33    184255       RyanPickles@aol.com
+Mrs.   Colton   Carlson     6723   Reed          New York City     NY      10001   72    131010       ColtonCarlson@gmail.com
+Mrs.   Colton   Hunt        5659   Lake          Chicago           IL      60290   47    215935       ColtonHunt@outlook.com
+Ms.    Michelle Johnson     5569   Jobs          Detroit           MI      48224   70    135840       MichelleJohnson@clever.com
+Mr.    Polly    Williams    9448   Short         Los Angeles       CA      90005   18    138837       PollyWilliams@gmail.com
+Mr.    Chris    Ross        1242   Hufflepuff    Sault Ste. Marie  MI      49783   18    187485       ChrisRoss@yahoo.com
+Mr.    Frank    Carlson     4475   Java          Cleveland         OH      44101   30    165395       FrankCarlson@aol.com
+Dr.    Paige    Microsoft   7336   Jobs          Chicago           IL      60290   36    127100       PaigeMicrosoft@gmail.com
+Mr.    Amy      Malfoy      8054   Dotski        Orlando           FL      32805   42    124171       AmyMalfoy@aol.com
+Dr.    Julie    Carlson     9686   November      Los Angeles       CA      90005   54    172122       JulieCarlson@gmail.com
+Dr.    Deborah  Genovia     6850   Dolphin       St.Clair Shores   MI      48081   33    110953       DeborahGenovia@clever.com
+Ms.    Raymond  Snape       9526   Bonner        St.Clair Shores   MI      48081   76    136579       RaymondSnape@aol.com
+Mr.    George   Bell        2842   Lua           Orlando           FL      32805   51    214906       GeorgeBell@gmail.com
+Dr.    Frank    Snape       3915   Hill          St.Clair Shores   MI      48081   21    109520       FrankSnape@yahoo.com
+Mrs.   Jack     Friedline   3533   Pines         Chicago           IL      60290   57    216130       JackFriedline@gmail.com
+Mr.    Abigail  Williams    1971   Steller       Los Angeles       CA      90005   48    210086       AbigailWilliams@outlook.com
+Dr.    Kevin    Rausch      7042   Plute         Cleveland         OH      44101   27    128583       KevinRausch@outlook.com
+Mr.    Joe      Baker       8603   Salad         Cleveland         OH      44101   36    163279       JoeBaker@yahoo.com
+Ms.    Paige    Wilson      6137   LakeShore     New York City     NY      10001   34    112172       PaigeWilson@clever.com
+Mrs.   Robert   Evans       6228   Wind          Nashville         TN      37206   26    114208       RobertEvans@aol.com
+Rvd.   Dennis   James       7750   Jobs          Nashville         TN      37206   77    216922       DennisJames@aol.com
+Ms.    Cody     Ford        9729   Perl          Chicago           IL      60290   75    117788       CodyFord@aol.com
+Mrs.   Kevin    Dumbledore  7257   Horse         New York City     NY      10001   54    147988       KevinDumbledore@clever.com
+Mrs.   Connie   Lovegood    1709   Easterday     Sault Ste. Marie  MI      49783   48    219410       ConnieLovegood@aol.com
+Mr.    George   Snape       1726   SouthLake     Grand Rapids      MI      49505   68    106126       GeorgeSnape@gmail.com
+Mr.    Dylan    Mason       2082   SouthLake     Orlando           FL      32805   50    147526       DylanMason@yahoo.com
+Mr.    Brian    Stump       3355   LSSU          Chicago           IL      60290   38    186273       BrianStump@outlook.com
+Dr.    Laura    Scott       8107   SouthLake     Los Angeles       CA      90005   47    145756       LauraScott@outlook.com
+Mrs.   Hannah   Sanders     8105   Lake          Los Angeles       CA      90005   57    177127       HannahSanders@aol.com
+Mr.    Raymond  Cox         1423   Java          Chicago           IL      60290   27    107052       RaymondCox@yahoo.com
+Mrs.   Jose     Kroger      3935   Troll         Chicago           IL      60290   37    204121       JoseKroger@aol.com
+Mrs.   ElizabethThornberry  9969   Sherman       Grand Rapids      MI      49505   34    196736       ElizabethThornberry@clever.com
+Mr.    Molly    Chevy       5385   Moon          Cleveland         OH      44101   21    139208       MollyChevy@gmail.com
+Mrs.   Jose     Boyd        7242   LSSU          Grand Rapids      MI      49505   69    135879       JoseBoyd@outlook.com
+Ms.    Wanda    Cox         8460   Bread         Grand Rapids      MI      49505   67    102228       WandaCox@outlook.com
+Mrs.   Susaun   Wentz       7314   Short         Grand Rapids      MI      49505   69    116316       SusaunWentz@outlook.com
+Ms.    Matt     Ford        9136   Jane          Cleveland         OH      44101   29    199969       MattFord@yahoo.com
+Ms.    Ryan     Kane        6355   Ravenclaw     Cleveland         OH      44101   71    118252       RyanKane@aol.com
+Mrs.   Megan    Stump       3141   Ocean         New York City     NY      10001   40    144713       MeganStump@yahoo.com
+Mrs.   Fred     Potter      9035   Hughes        New York City     NY      10001   40    166574       FredPotter@yahoo.com
+Mr.    William  Longbottom  2034   Noodles       Cleveland         OH      44101   34    125111       WilliamLongbottom@yahoo.com
+Ms.    Jean     Ford        5310   Jobs          Grand Rapids      MI      49505   27    187830       JeanFord@gmail.com
+Mrs.   Frank    Carlson     3691   Bears         Orlando           FL      32805   73    203760       FrankCarlson@gmail.com
+Mr.    Paige    Mosbey      4268   July          St.Clair Shores   MI      48081   18    123849       PaigeMosbey@gmail.com
+Mrs.   Jean     Mason       5606   Lighting      Detroit           MI      48224   19    162213       JeanMason@clever.com
+Mrs.   Katie    Thornberry  1806   Apple         Cleveland         OH      44101   49    187600       KatieThornberry@yahoo.com
+Dr.    Jennie   Longbottom  3299   Lions         Sault Ste. Marie  MI      49783   42    206068       JennieLongbottom@outlook.com
+Rvd.   Kelly    Cox         1282   Apple         Orlando           FL      32805   34    104251       KellyCox@clever.com
+Dr.    Lori     Baker       1874   Hart          Cleveland         OH      44101   54    156184       LoriBaker@clever.com
+Ms.    Sam      Daniels     7892   Lions         Detroit           MI      48224   72    160227       SamDaniels@outlook.com
+Ms.    Frank    Johnson     4318   Thunder       Nashville         TN      37206   65    175107       FrankJohnson@gmail.com
+Mr.    Harry    Microsoft   8829   Lake          Los Angeles       CA      90005   19    179864       HarryMicrosoft@gmail.com
+Ms.    Raymond  Evans       9292   Oaks          Grand Rapids      MI      49505   18    193370       RaymondEvans@gmail.com
+Rvd.   Patty    Verlander   8399   River         Detroit           MI      48224   53    104340       PattyVerlander@yahoo.com
+Mrs.   Alice    Black       6290   LakeShore     Cleveland         OH      44101   69    131987       AliceBlack@clever.com
+Ms.    Dennis   Dotski      9485   Hufflepuff    St.Clair Shores   MI      48081   29    207651       DennisDotski@gmail.com
+Mrs.   Janice   Wentz       6905   Hart          Grand Rapids      MI      49505   30    199388       JaniceWentz@clever.com
+Ms.    Dennis   Wilson      7328   Ravenclaw     Los Angeles       CA      90005   31    195819       DennisWilson@aol.com
+Mrs.   Matt     Randcliff   5525   Dotski        New York City     NY      10001   54    100953       MattRandcliff@yahoo.com
+Ms.    Susaun   Turner      5902   Bonner        Nashville         TN      37206   41    138055       SusaunTurner@yahoo.com
+Ms.    Ethel    Carlson     9277   Java          Los Angeles       CA      90005   29    119602       EthelCarlson@outlook.com
+Rvd.   William  Moody       2983   Oaks          Chicago           IL      60290   44    189618       WilliamMoody@clever.com
+Dr.    Fred     Ross        4909   Storm         Nashville         TN      37206   53    134627       FredRoss@outlook.com
+Mr.    Joe      Evans       8715   Friedline     Nashville         TN      37206   31    182041       JoeEvans@yahoo.com
+Mrs.   James    Cox         7972   Monday        Orlando           FL      32805   36    207598       JamesCox@outlook.com
+Dr.    Blake    Johnson     9040   Java          St.Clair Shores   MI      48081   35    182832       BlakeJohnson@gmail.com
+Mrs.   Luke     Mason       7697   Friday        St.Clair Shores   MI      48081   36    160337       LukeMason@yahoo.com
+Ms.    Ann      Ford        8933   Apple         Detroit           MI      48224   55    100194       AnnFord@aol.com
+Dr.    Ann      Toutant     6624   Hufflepuff    Grand Rapids      MI      49505   27    125134       AnnToutant@gmail.com
+Ms.    Shawn    Bevridge    1984   Slytherin     St.Clair Shores   MI      48081   38    110116       ShawnBevridge@gmail.com
+Ms.    Janet    Rempala     5549   Reed          Detroit           MI      48224   55    218841       JanetRempala@clever.com
+Mrs.   Alice    Weasley     7853   Lighting      New York City     NY      10001   46    138023       AliceWeasley@yahoo.com
+Rvd.   Judy     Malfoy      9617   Java          New York City     NY      10001   52    170319       JudyMalfoy@aol.com
+Mr.    Joe      Kroger      2709   Steller       Sault Ste. Marie  MI      49783   20    149262       JoeKroger@aol.com
+Mrs.   John     Minaker     1277   Steller       Grand Rapids      MI      49505   44    172554       JohnMinaker@clever.com
+Mr.    Lori     Johnson     5231   Lions         St.Clair Shores   MI      48081   75    176853       LoriJohnson@aol.com
+Mr.    Daisy    Lovegood    5905   Oaks          Chicago           IL      60290   51    106008       DaisyLovegood@clever.com
+Ms.    Trace    Archer      9167   Troll         Orlando           FL      32805   57    218251       TraceArcher@gmail.com
+Ms.    Lori     Lovegood    1089   Bears         Chicago           IL      60290   41    114449       LoriLovegood@outlook.com
+Mr.    Amy      Genovia     6361   Gaffke        Grand Rapids      MI      49505   39    175299       AmyGenovia@aol.com
+Mr.    Ann      Sanders     5593   Easterday     Orlando           FL      32805   47    188531       AnnSanders@yahoo.com
+Dr.    Amy      Hunt        5859   Ravenclaw     New York City     NY      10001   35    210636       AmyHunt@aol.com
+Ms.    Robert   Longbottom  4424   Hill          Detroit           MI      48224   27    207723       RobertLongbottom@aol.com
+Dr.    Jessica  Hill        4781   Apple         Chicago           IL      60290   41    156604       JessicaHill@yahoo.com
+Mr.    Adam     Roda        7859   SouthLake     Los Angeles       CA      90005   58    116064       AdamRoda@gmail.com
+Mrs.   Hannah   Howard      5178   Troll         Cleveland         OH      44101   55    107163       HannahHoward@aol.com
+Mrs.   Shawn    Long        4820   Sunshine      Grand Rapids      MI      49505   73    209012       ShawnLong@gmail.com
+Rvd.   Jennie   Archer      8744   Turnip        Grand Rapids      MI      49505   23    177205       JennieArcher@outlook.com
+Ms.    William  Kane        7361   Pines         Orlando           FL      32805   71    100996       WilliamKane@aol.com
+Ms.    Harry    Ford        4381   Lions         Cleveland         OH      44101   73    161264       HarryFord@gmail.com
+Rvd.   Janet    Stump       5484   Jane          New York City     NY      10001   23    183294       JanetStump@clever.com
+Mr.    Matt     Potter      9738   Orange        Orlando           FL      32805   50    112479       MattPotter@outlook.com
+Ms.    Trace    Ford        1535   SouthLake     Grand Rapids      MI      49505   21    101164       TraceFord@aol.com
+Rvd.   Taylor   Wentz       5690   Easterday     Grand Rapids      MI      49505   72    110502       TaylorWentz@clever.com
+Ms.    Raymond  Wentz       2817   Kleene        Cleveland         OH      44101   72    101246       RaymondWentz@yahoo.com
+Mrs.   Julie    Jobs        7918   Gryfindor     Chicago           IL      60290   43    215875       JulieJobs@outlook.com
+Mrs.   Molly    June        3907   Lions         Los Angeles       CA      90005   74    183956       MollyJune@yahoo.com
+Ms.    April    Friedline   3436   Salad         Chicago           IL      60290   36    156510       AprilFriedline@gmail.com
+Dr.    Fred     Meijer      5471   Wombat        Los Angeles       CA      90005   37    185055       FredMeijer@aol.com
+Rvd.   Colton   Moody       7921   Wombat        Grand Rapids      MI      49505   22    181190       ColtonMoody@gmail.com
+Mrs.   Colton   Williams    1286   Ravenclaw     Chicago           IL      60290   42    155205       ColtonWilliams@outlook.com
+Mr.    Blake    Chevy       8118   Walabey       Cleveland         OH      44101   65    185662       BlakeChevy@yahoo.com
+Mr.    Luke     Kelly       5569   Hufflepuff    Chicago           IL      60290   71    177484       LukeKelly@gmail.com
+Mrs.   Laura    James       8563   Reed          Detroit           MI      48224   27    110944       LauraJames@aol.com
+Ms.    Daisy    Whiteman    1769   Horse         Detroit           MI      48224   42    156095       DaisyWhiteman@yahoo.com
+Mrs.   Deborah  Cox         9344   Tigers        Nashville         TN      37206   32    217971       DeborahCox@aol.com
+Ms.    Brittany Mason       6997   Slytherin     Orlando           FL      32805   44    107473       BrittanyMason@clever.com
+Mrs.   Janet    Jenkins     7246   Perl          Los Angeles       CA      90005   39    130728       JanetJenkins@gmail.com
+Mrs.   Michelle Xiu         8136   Party         New York City     NY      10001   28    130207       MichelleXiu@outlook.com
+Mrs.   Shawn    Smith       1572   Lua           Grand Rapids      MI      49505   37    168394       ShawnSmith@yahoo.com
+Mrs.   April    Wentz       8674   Cook          Grand Rapids      MI      49505   56    121165       AprilWentz@clever.com
+Mrs.   Sarah    Snape       2053   Java          Chicago           IL      60290   67    201101       SarahSnape@gmail.com
+Dr.    Dylan    Microsoft   2132   Gaffke        St.Clair Shores   MI      48081   43    183837       DylanMicrosoft@outlook.com
+Mrs.   Joe      Winchester  5690   Reed          Los Angeles       CA      90005   42    126697       JoeWinchester@outlook.com
+Ms.    ChristineKeene       8316   Sherman       Chicago           IL      60290   70    217043       ChristineKeene@outlook.com
+Dr.    Ann      Bonner      5526   Hughes        Los Angeles       CA      90005   75    196700       AnnBonner@gmail.com
+Mr.    ChristineJames       9631   Sherman       Detroit           MI      48224   54    218152       ChristineJames@clever.com
+Ms.    Janice   Boyd        3898   Ravenclaw     Detroit           MI      48224   53    105275       JaniceBoyd@yahoo.com
+Ms.    James    Verlander   5974   Ravenclaw     Grand Rapids      MI      49505   33    218735       JamesVerlander@clever.com
+Rvd.   Molly    Turner      3043   Turnip        New York City     NY      10001   53    213915       MollyTurner@gmail.com
+Mrs.   April    Bonner      5559   Sunny         Detroit           MI      48224   64    138323       AprilBonner@aol.com
+Rvd.   Jose     Microsoft   1317   Orange        Nashville         TN      37206   29    206262       JoseMicrosoft@clever.com
+Mrs.   Colton   Steller     3951   Stream        New York City     NY      10001   74    177235       ColtonSteller@yahoo.com
+Dr.    Alice    Hunt        5554   Kennedy       Orlando           FL      32805   40    167985       AliceHunt@clever.com
+Mrs.   Connie   Friedline   6726   Reed          Grand Rapids      MI      49505   40    126761       ConnieFriedline@outlook.com
+Mrs.   Susaun   Mason       5330   Plute         New York City     NY      10001   63    209381       SusaunMason@outlook.com
+Mrs.   Trevor   Carlson     7275   Pear          Nashville         TN      37206   18    131269       TrevorCarlson@yahoo.com
+Rvd.   Abigail  Johnson     8760   Plute         Cleveland         OH      44101   56    163365       AbigailJohnson@gmail.com
+Mrs.   Abigail  Weasley     5549   Java          Chicago           IL      60290   51    110398       AbigailWeasley@aol.com
+Mr.    Adam     Bones       7759   Orange        St.Clair Shores   MI      48081   62    220497       AdamBones@clever.com
+Ms.    Blake    Jobs        3629   Gaffke        New York City     NY      10001   63    195440       BlakeJobs@clever.com
+Mr.    Laura    Friedline   6778   Hart          St.Clair Shores   MI      48081   24    217163       LauraFriedline@gmail.com
+Mrs.   Fred     Roda        4836   Orange        Nashville         TN      37206   57    100785       FredRoda@clever.com
+Ms.    ElizabethMinaker     8704   Cook          Cleveland         OH      44101   71    216733       ElizabethMinaker@clever.com
+Ms.    Susaun   Longbottom  8867   Tree          Chicago           IL      60290   28    117286       SusaunLongbottom@aol.com
+Ms.    ElizabethRay         8462   Dotski        Detroit           MI      48224   64    105397       ElizabethRay@outlook.com
+Ms.    Colton   James       7625   Wombat        Grand Rapids      MI      49505   46    167027       ColtonJames@gmail.com
+Ms.    Taylor   Howard      6885   LakeShore     St.Clair Shores   MI      48081   76    156003       TaylorHoward@outlook.com
+Rvd.   Connie   Wilson      7592   Rain          Orlando           FL      32805   36    153640       ConnieWilson@clever.com
+Ms.    Kyle     Baker       7417   Ocean         Los Angeles       CA      90005   36    193502       KyleBaker@clever.com
+Mrs.   Hannah   Carlson     5784   Slytherin     Sault Ste. Marie  MI      49783   26    147601       HannahCarlson@clever.com
+Ms.    Kyle     Weasley     8652   Hughes        Chicago           IL      60290   29    104090       KyleWeasley@yahoo.com
+Mrs.   Colton   Sherman     7300   Perl          Grand Rapids      MI      49505   21    169026       ColtonSherman@aol.com
+Ms.    Eric     Stump       6989   Beer          Sault Ste. Marie  MI      49783   31    135116       EricStump@clever.com
+Rvd.   Julie    Archer      7413   Reed          Cleveland         OH      44101   66    208765       JulieArcher@clever.com
+Mr.    Raymond  Sun         3597   Short         Chicago           IL      60290   42    129963       RaymondSun@aol.com
+Mrs.   Larry    Cook        3260   Tigers        Sault Ste. Marie  MI      49783   52    163196       LarryCook@outlook.com
+Ms.    April    Potter      8548   Rain          Los Angeles       CA      90005   69    119517       AprilPotter@clever.com
+Ms.    Dylan    Baker       9993   Stone         Chicago           IL      60290   18    208311       DylanBaker@gmail.com
+Mr.    Kelly    Keene       1710   Cook          Los Angeles       CA      90005   20    190487       KellyKeene@clever.com
+Mr.    Judy     Hill        6994   Gryfindor     Cleveland         OH      44101   59    205602       JudyHill@outlook.com
+Mr.    Matt     Lovegood    2040   Plute         Nashville         TN      37206   66    206273       MattLovegood@clever.com
+Ms.    Amy      Sherman     5539   Pear          Sault Ste. Marie  MI      49783   73    132954       AmySherman@clever.com
+Mrs.   Kelly    Ray         2162   Sun           St.Clair Shores   MI      48081   66    133359       KellyRay@outlook.com
+Ms.    Adam     Randcliff   9000   Turnip        Chicago           IL      60290   77    116367       AdamRandcliff@yahoo.com
+Ms.    Lori     Williams    6141   Stream        Sault Ste. Marie  MI      49783   74    208988       LoriWilliams@outlook.com
+Mr.    Ron      Howard      3807   May           Los Angeles       CA      90005   64    164269       RonHoward@yahoo.com
+Mrs.   Chris    Carlson     4861   LakeShore     Los Angeles       CA      90005   65    134252       ChrisCarlson@clever.com
+Mr.    Jose     Black       6528   Beer          New York City     NY      10001   43    154047       JoseBlack@yahoo.com
+Dr.    Geno     Rausch      5478   Dolphin       Orlando           FL      32805   76    155153       GenoRausch@aol.com
+Mr.    Colton   Mosbey      9066   LakeView      New York City     NY      10001   37    218993       ColtonMosbey@yahoo.com
+Dr.    Brian    Turner      5725   Gates         Detroit           MI      48224   31    121350       BrianTurner@gmail.com
+Rvd.   Kelly    Baker       5107   Storm         Cleveland         OH      44101   62    159157       KellyBaker@outlook.com
+Mrs.   Jack     Bell        7387   Noodles       Los Angeles       CA      90005   57    210567       JackBell@outlook.com
+Rvd.   Paul     Microsoft   8878   Noodles       Nashville         TN      37206   26    199148       PaulMicrosoft@clever.com
+Ms.    Megan    Kane        3560   Bears         Nashville         TN      37206   67    207060       MeganKane@clever.com
+Rvd.   Deborah  Hartman     2558   SouthLake     Nashville         TN      37206   33    188902       DeborahHartman@yahoo.com
+Dr.    Harry    Scott       8901   Apple         Orlando           FL      32805   26    218682       HarryScott@yahoo.com
+Mrs.   Scott    Moody       7461   Flower        Detroit           MI      48224   25    201541       ScottMoody@outlook.com
+Mrs.   Ron      Spears      9304   December      Orlando           FL      32805   69    220482       RonSpears@outlook.com
+Ms.    Jean     Williams    3527   Hufflepuff    New York City     NY      10001   28    134764       JeanWilliams@clever.com
+Mrs.   Jessica  Randcliff   9859   Hufflepuff    Grand Rapids      MI      49505   45    219965       JessicaRandcliff@gmail.com
+Ms.    Caroline Dotski      7051   May           Grand Rapids      MI      49505   33    192360       CarolineDotski@gmail.com
+Rvd.   Ryan     Minaker     1458   Short         Los Angeles       CA      90005   71    142632       RyanMinaker@aol.com
+Rvd.   Trevor   Ray         3164   Noodles       St.Clair Shores   MI      48081   34    174905       TrevorRay@gmail.com
+Ms.    James    Genovia     1329   Kleene        Los Angeles       CA      90005   36    144289       JamesGenovia@clever.com
+Dr.    Taylor   Meijer      1388   Hufflepuff    Cleveland         OH      44101   18    216935       TaylorMeijer@clever.com
+Mrs.   James    Mosbey      7818   Bread         Sault Ste. Marie  MI      49783   75    160161       JamesMosbey@aol.com
+Dr.    Dennis   Hart        8979   July          Cleveland         OH      44101   60    170434       DennisHart@yahoo.com
+Ms.    Matt     Keys        2189   Giraff        New York City     NY      10001   43    199881       MattKeys@outlook.com
+Ms.    Raymond  Wentz       7908   Sunshine      Cleveland         OH      44101   51    222502       RaymondWentz@clever.com
+Mrs.   Ann      Longbottom  9464   Sun           Orlando           FL      32805   48    155462       AnnLongbottom@clever.com
+Dr.    Luna     Kane        7614   Bones         Chicago           IL      60290   29    113824       LunaKane@clever.com
+Rvd.   Luke     Moody       3259   Cook          Cleveland         OH      44101   72    180484       LukeMoody@clever.com
+Ms.    Ethel    Mosbey      9209   Lua           Nashville         TN      37206   53    161726       EthelMosbey@yahoo.com
+Mrs.   Raymond  Friedline   3432   Java          Orlando           FL      32805   67    180860       RaymondFriedline@aol.com
+Mrs.   Katie    Kane        2981   Ocean         Grand Rapids      MI      49505   60    218315       KatieKane@clever.com
+Mrs.   Susaun   Wentz       7098   Steller       Chicago           IL      60290   25    159924       SusaunWentz@clever.com
+Mr.    Fred     James       8372   Gryfindor     Nashville         TN      37206   44    177854       FredJames@yahoo.com
+Mrs.   Robert   Turner      7043   Gryfindor     Cleveland         OH      44101   59    205448       RobertTurner@clever.com
+Mrs.   Sam      Potter      5608   Turnip        New York City     NY      10001   52    162454       SamPotter@outlook.com
+Ms.    Karen    Kelly       8979   Walrus        Los Angeles       CA      90005   46    215751       KarenKelly@clever.com
+Mrs.   Shawn    Bonner      2716   Cook          Sault Ste. Marie  MI      49783   20    129133       ShawnBonner@yahoo.com
+Mr.    Susaun   Sherman     9256   Party         Grand Rapids      MI      49505   66    180794       SusaunSherman@aol.com
+Ms.    Judy     Boyd        2705   Beer          Chicago           IL      60290   37    123759       JudyBoyd@outlook.com
+Rvd.   Sarah    Potter      6963   Salad         Grand Rapids      MI      49505   38    105899       SarahPotter@gmail.com
+Mr.    Kelly    Wentz       7014   Salad         Los Angeles       CA      90005   56    159999       KellyWentz@outlook.com
+Ms.    Abigail  Dumbledore  3492   Easterday     Cleveland         OH      44101   77    139446       AbigailDumbledore@yahoo.com
+Dr.    Larry    Randcliff   6364   High          New York City     NY      10001   58    127455       LarryRandcliff@gmail.com
+Ms.    Luna     Keene       1932   Pear          New York City     NY      10001   33    146730       LunaKeene@yahoo.com
+Rvd.   Michelle Bell        3776   Thursday      Grand Rapids      MI      49505   41    207835       MichelleBell@gmail.com
+Mrs.   Ethel    Archer      1619   Gaffke        Grand Rapids      MI      49505   32    106228       EthelArcher@outlook.com
+Mrs.   Lori     Rausch      8278   Sunny         Cleveland         OH      44101   69    141532       LoriRausch@aol.com
+Mr.    Karen    June        6731   LakeView      Sault Ste. Marie  MI      49783   73    196583       KarenJune@outlook.com
+Ms.    Luna     Keys        8699   Bonner        Chicago           IL      60290   67    201839       LunaKeys@outlook.com
+Dr.    Jack     Baker       1447   Apple         Detroit           MI      48224   52    176344       JackBaker@outlook.com
+Rvd.   Ann      Longbottom  1215   Sunny         Chicago           IL      60290   44    119728       AnnLongbottom@outlook.com
+Mr.    Sarah    Howard      6536   Storm         Cleveland         OH      44101   43    153747       SarahHoward@yahoo.com
+Mr.    George   Ford        2850   River         Grand Rapids      MI      49505   50    194338       GeorgeFord@clever.com
+Dr.    Judy     Black       3981   Oaks          Nashville         TN      37206   61    141714       JudyBlack@yahoo.com
+Mrs.   Ethel    Toutant     4020   Hart          Nashville         TN      37206   61    186866       EthelToutant@outlook.com
+Rvd.   Trevor   Kroger      2757   Ravenclaw     Detroit           MI      48224   31    195255       TrevorKroger@outlook.com
+Mrs.   Blake    Bones       2757   Noodles       Orlando           FL      32805   22    176686       BlakeBones@yahoo.com
+Mrs.   Joe      Chevy       5417   Monday        Nashville         TN      37206   76    116222       JoeChevy@yahoo.com
+Ms.    Susaun   Sanders     5005   Friday        New York City     NY      10001   37    200782       SusaunSanders@outlook.com
+Mrs.   Robert   Hill        6116   Ravenclaw     Los Angeles       CA      90005   22    204497       RobertHill@gmail.com
+Dr.    Paige    Stump       8235   Sun           New York City     NY      10001   76    158141       PaigeStump@clever.com
+Dr.    Shawn    Senders     7051   Sunny         Sault Ste. Marie  MI      49783   18    196854       ShawnSenders@gmail.com
+Mr.    Kyle     June        2958   Lighting      Detroit           MI      48224   45    103950       KyleJune@aol.com
+Mrs.   Chris    Turner      1827   Stone         Los Angeles       CA      90005   22    184849       ChrisTurner@gmail.com
+Mrs.   Dylan    Minaker     4212   Lighting      New York City     NY      10001   63    205022       DylanMinaker@gmail.com
+Mr.    Wanda    Mason       8120   Hufflepuff    Los Angeles       CA      90005   66    202627       WandaMason@yahoo.com
+Rvd.   Abigail  Weasley     1179   Reed          Grand Rapids      MI      49505   23    148512       AbigailWeasley@outlook.com
+Mrs.   Karen    Kane        6452   Ravenclaw     Cleveland         OH      44101   46    176307       KarenKane@clever.com
+Dr.    Eric     Snape       6500   Java          Detroit           MI      48224   36    148595       EricSnape@yahoo.com
+Rvd.   Julie    Microsoft   7321   Oaks          Los Angeles       CA      90005   39    132352       JulieMicrosoft@gmail.com
+Dr.    Hannah   Li          2484   Walrus        Detroit           MI      48224   58    203949       HannahLi@aol.com
+Rvd.   Cody     Fields      3613   Bears         Orlando           FL      32805   40    171002       CodyFields@aol.com
+Rvd.   Eric     Toutant     4110   May           Detroit           MI      48224   35    159466       EricToutant@yahoo.com
+Rvd.   Wanda    Daniels     6089   LakeView      Sault Ste. Marie  MI      49783   60    201559       WandaDaniels@aol.com
+Mrs.   John     Daniels     8410   Thursday      Sault Ste. Marie  MI      49783   53    191781       JohnDaniels@gmail.com
+Dr.    Ethel    Cox         7290   Bestie        New York City     NY      10001   27    214859       EthelCox@aol.com
+Mr.    Megan    Pickles     7330   Walabey       Cleveland         OH      44101   45    177040       MeganPickles@outlook.com
+Ms.    Jean     Thornberry  4672   Bonner        Cleveland         OH      44101   27    112568       JeanThornberry@outlook.com
+Ms.    Ann      Rausch      9545   Walabey       Los Angeles       CA      90005   64    153210       AnnRausch@yahoo.com
+Mrs.   Adam     Microsoft   8861   Salad         New York City     NY      10001   54    105042       AdamMicrosoft@clever.com
+Rvd.   Blake    Sun         6958   Gates         Los Angeles       CA      90005   24    171433       BlakeSun@outlook.com
+Ms.    Frank    Cox         5050   Party         Orlando           FL      32805   59    180338       FrankCox@yahoo.com
+Ms.    Judy     Winchester  9163   Hart          Orlando           FL      32805   27    167415       JudyWinchester@outlook.com
+Mr.    Trace    Ray         3897   Walrus        Orlando           FL      32805   44    117951       TraceRay@clever.com
+Dr.    ChristineRay         9154   Sherman       Nashville         TN      37206   25    176759       ChristineRay@clever.com
+Dr.    Robert   Dumbledore  9455   Vodka         Cleveland         OH      44101   37    213096       RobertDumbledore@outlook.com
+Mr.    Emily    Smith       9119   Hill          Sault Ste. Marie  MI      49783   70    119638       EmilySmith@yahoo.com
+Mr.    Robert   Sherman     6286   Sherman       Chicago           IL      60290   53    145408       RobertSherman@gmail.com
+Mr.    Abigail  Jenkins     1751   Hogwarts      St.Clair Shores   MI      48081   75    138521       AbigailJenkins@gmail.com
+Dr.    Laura    Moody       8752   Beer          Detroit           MI      48224   74    123946       LauraMoody@clever.com
+Ms.    Draco    Ross        1150   Sunshine      Chicago           IL      60290   59    211063       DracoRoss@yahoo.com
+Mr.    Ethel    James       7047   December      Orlando           FL      32805   74    207363       EthelJames@outlook.com
+Ms.    Larry    Fields      3603   Storm         Chicago           IL      60290   22    127336       LarryFields@outlook.com
+Ms.    Jessica  Microsoft   7730   LakeView      Grand Rapids      MI      49505   44    222260       JessicaMicrosoft@gmail.com
+Mrs.   Luna     Ford        7955   Gryfindor     Cleveland         OH      44101   72    171276       LunaFord@clever.com
+Mrs.   Caroline Minaker     1359   Bestie        Los Angeles       CA      90005   22    188638       CarolineMinaker@aol.com
+Rvd.   William  Sun         8296   Kennedy       Grand Rapids      MI      49505   51    104947       WilliamSun@gmail.com
+Mr.    Taylor   Wallo       7957   Bread         Detroit           MI      48224   28    166805       TaylorWallo@outlook.com
+Rvd.   Ginny    Boyd        8003   Cook          Los Angeles       CA      90005   19    187102       GinnyBoyd@gmail.com
+Ms.    Luke     Fields      1047   River         Detroit           MI      48224   56    188283       LukeFields@yahoo.com
+Ms.    Eric     Malfoy      2384   Walrus        New York City     NY      10001   59    136401       EricMalfoy@yahoo.com
+Dr.    Fred     Hartman     4039   SouthLake     New York City     NY      10001   45    207808       FredHartman@clever.com
+Dr.    ElizabethScott       3853   Horse         St.Clair Shores   MI      48081   20    117192       ElizabethScott@gmail.com
+Dr.    ChristineCox         3368   Walabey       Los Angeles       CA      90005   20    122455       ChristineCox@yahoo.com
+Mrs.   Gary     Sanders     6249   High          Cleveland         OH      44101   19    102196       GarySanders@outlook.com
+Mr.    Jennie   Wilson      5872   Ravenclaw     Detroit           MI      48224   29    121155       JennieWilson@yahoo.com
+Mr.    Larry    Rausch      4908   May           St.Clair Shores   MI      48081   54    177888       LarryRausch@yahoo.com
+Mrs.   Lori     Turner      2892   Troll         Detroit           MI      48224   51    151022       LoriTurner@gmail.com
+Ms.    Blake    Daniels     4783   Stone         Orlando           FL      32805   52    135196       BlakeDaniels@yahoo.com
+Ms.    Patty    Black       5422   Gates         St.Clair Shores   MI      48081   63    158992       PattyBlack@aol.com
+Rvd.   Harry    Scott       8122   SouthLake     Detroit           MI      48224   32    185596       HarryScott@clever.com
+Mr.    Geno     Roda        6329   Thursday      Orlando           FL      32805   20    195371       GenoRoda@aol.com
+Ms.    James    Evans       8669   Hughes        Sault Ste. Marie  MI      49783   44    219752       JamesEvans@clever.com
+Mrs.   Jennie   Cox         9490   Gates         Cleveland         OH      44101   20    142213       JennieCox@outlook.com
+Mr.    George   Steller     8737   Sun           New York City     NY      10001   28    223261       GeorgeSteller@outlook.com
+Rvd.   Colton   Li          6063   Stream        Cleveland         OH      44101   69    150378       ColtonLi@gmail.com
+Dr.    Amy      Friedline   3553   LSSU          Sault Ste. Marie  MI      49783   22    152981       AmyFriedline@gmail.com
+Dr.    Wanda    Moody       5985   Beer          Sault Ste. Marie  MI      49783   19    198796       WandaMoody@yahoo.com
+Mr.    Frank    Moody       7537   Apple         Detroit           MI      48224   49    170395       FrankMoody@outlook.com
+Rvd.   Frank    Malfoy      9393   Moon          St.Clair Shores   MI      48081   55    195888       FrankMalfoy@gmail.com
+Ms.    Matt     Li          6297   River         St.Clair Shores   MI      48081   54    124568       MattLi@clever.com
+Ms.    Ann      Fields      1484   Lake          Sault Ste. Marie  MI      49783   70    118941       AnnFields@clever.com
+Mr.    Luna     Senders     5723   Bonner        Grand Rapids      MI      49505   46    138256       LunaSenders@outlook.com
+Ms.    Paige    Winchester  4595   Sun           Orlando           FL      32805   28    166427       PaigeWinchester@clever.com
+Dr.    Lori     Lovegood    4980   Dolphin       Nashville         TN      37206   56    151466       LoriLovegood@aol.com
+Mrs.   Jose     Carlson     2513   Friedline     Orlando           FL      32805   49    206979       JoseCarlson@aol.com
+Ms.    Eric     Black       4170   Reed          Detroit           MI      48224   61    209034       EricBlack@gmail.com
+Ms.    ElizabethRempala     8928   Gates         Detroit           MI      48224   60    144503       ElizabethRempala@outlook.com
+Mr.    Megan    Chevy       8942   Noodles       Detroit           MI      48224   41    141126       MeganChevy@yahoo.com
+Mr.    Judy     Turner      3437   Lua           Chicago           IL      60290   66    141260       JudyTurner@aol.com
+Rvd.   Taylor   Weasley     1280   Jobs          Nashville         TN      37206   48    168981       TaylorWeasley@yahoo.com
+Mr.    Hannah   Perez       7472   Plute         Grand Rapids      MI      49505   77    132769       HannahPerez@clever.com
+Ms.    Emily    Howard      5509   Gaffke        Los Angeles       CA      90005   70    110653       EmilyHoward@gmail.com
+Mrs.   Michelle Potter      4157   Pines         Chicago           IL      60290   45    102247       MichellePotter@aol.com
+Mrs.   Patty    Minaker     6220   LakeShore     Grand Rapids      MI      49505   51    149827       PattyMinaker@clever.com
+Ms.    Gary     Hunt        3156   December      Cleveland         OH      44101   57    168798       GaryHunt@yahoo.com
+Ms.    Shawn    Boyd        2039   Thursday      Chicago           IL      60290   26    134808       ShawnBoyd@yahoo.com
+Mrs.   Sam      Pickles     6711   Sunshine      Orlando           FL      32805   71    156869       SamPickles@yahoo.com
+Mr.    Paul     Bell        9105   Vodka         Chicago           IL      60290   66    134567       PaulBell@yahoo.com
+Rvd.   Karen    Verlander   9250   Dotski        Grand Rapids      MI      49505   59    123860       KarenVerlander@aol.com
+Ms.    Connie   Snape       5494   Java          Chicago           IL      60290   67    136014       ConnieSnape@yahoo.com
+Ms.    Larry    Pickles     4421   Apple         Los Angeles       CA      90005   57    155009       LarryPickles@clever.com
+Ms.    George   Sun         3970   Reed          Cleveland         OH      44101   27    106769       GeorgeSun@gmail.com
+Mrs.   April    Winchester  3138   Perl          New York City     NY      10001   39    165646       AprilWinchester@aol.com
+Mrs.   ChristineSenders     5694   Apple         Nashville         TN      37206   74    185147       ChristineSenders@yahoo.com
+Ms.    Katie    Ray         8142   Gryfindor     New York City     NY      10001   22    183032       KatieRay@outlook.com
+Dr.    Lori     Keys        6949   SouthLake     Nashville         TN      37206   55    182835       LoriKeys@outlook.com
+Ms.    Deborah  Rausch      6709   Plute         St.Clair Shores   MI      48081   35    191934       DeborahRausch@yahoo.com
+Mr.    Brittany Hart        5855   Bonner        Sault Ste. Marie  MI      49783   25    100404       BrittanyHart@outlook.com
+Ms.    Joe      Dotski      5984   Tigers        Cleveland         OH      44101   48    223034       JoeDotski@clever.com
+Ms.    Raymond  Johnson     3697   Pear          New York City     NY      10001   20    170977       RaymondJohnson@gmail.com
+Ms.    Gary     Stump       3136   Hill          Cleveland         OH      44101   43    123745       GaryStump@clever.com
+Mr.    James    Bonner      2002   Steller       Orlando           FL      32805   63    213244       JamesBonner@yahoo.com
+Mr.    Connie   Randcliff   2259   November      St.Clair Shores   MI      48081   28    131602       ConnieRandcliff@aol.com
+Mrs.   Deborah  Boyd        2122   Cook          St.Clair Shores   MI      48081   53    128217       DeborahBoyd@clever.com
+Rvd.   Colton   Rausch      9089   Kennedy       Los Angeles       CA      90005   28    208682       ColtonRausch@aol.com
+Mrs.   Joe      James       2046   Beer          Sault Ste. Marie  MI      49783   70    202378       JoeJames@aol.com
+Rvd.   ChristineMinaker     9210   Hart          Detroit           MI      48224   74    216919       ChristineMinaker@outlook.com
+Mrs.   Ron      Jenkins     7975   Pear          Chicago           IL      60290   58    153870       RonJenkins@gmail.com
+Mrs.   Daisy    Scott       7808   Sun           Orlando           FL      32805   34    118169       DaisyScott@outlook.com
+Rvd.   Eric     Scott       2790   Sun           Los Angeles       CA      90005   26    169298       EricScott@clever.com
+Ms.    Jack     Sanders     9512   Pear          Orlando           FL      32805   48    117979       JackSanders@outlook.com
+Mr.    James    Evans       5653   Kennedy       New York City     NY      10001   71    128961       JamesEvans@outlook.com
+Mrs.   Jose     Microsoft   8349   LakeView      Sault Ste. Marie  MI      49783   21    142441       JoseMicrosoft@aol.com
+Mrs.   Lori     Johnson     9200   Dotski        Chicago           IL      60290   61    169469       LoriJohnson@gmail.com
+Mrs.   Megan    Senders     9886   Salad         St.Clair Shores   MI      48081   29    175781       MeganSenders@yahoo.com
+Mrs.   Joe      Evans       8077   LSSU          Detroit           MI      48224   60    140853       JoeEvans@yahoo.com
+Mr.    April    Long        7030   Bread         Cleveland         OH      44101   42    181796       AprilLong@aol.com
+Ms.    Wanda    Baker       3437   High          Grand Rapids      MI      49505   50    132608       WandaBaker@yahoo.com
+Mr.    ChristineLongbottom  9241   Troll         Orlando           FL      32805   59    163774       ChristineLongbottom@outlook.com
+Mrs.   Emily    Rempala     8744   Dotski        Nashville         TN      37206   57    140462       EmilyRempala@gmail.com
+Mrs.   Michelle Dotski      4018   Moon          Nashville         TN      37206   27    179167       MichelleDotski@outlook.com
+Mrs.   Dylan    Fields      9680   November      Grand Rapids      MI      49505   34    200487       DylanFields@clever.com
+Rvd.   Jose     Kane        2727   Sun           New York City     NY      10001   28    214237       JoseKane@gmail.com
+Rvd.   Frank    Daniels     4024   Orange        Chicago           IL      60290   22    153149       FrankDaniels@clever.com
+Mr.    Trace    Wallo       9149   Lake          Detroit           MI      48224   73    220355       TraceWallo@outlook.com
+Ms.    Chris    Reed        4086   Hogwarts      Detroit           MI      48224   77    185151       ChrisReed@yahoo.com
+Ms.    Ann      Ford        6139   Kennedy       Orlando           FL      32805   62    209136       AnnFord@aol.com
+Dr.    Kyle     Genovia     1370   Short         Los Angeles       CA      90005   72    129261       KyleGenovia@gmail.com
+Mrs.   Jack     Williams    2022   Perl          Chicago           IL      60290   57    142425       JackWilliams@gmail.com
+Rvd.   April    Bonner      6916   Tigers        Orlando           FL      32805   62    166494       AprilBonner@gmail.com
+Rvd.   Connie   Ray         8044   Friday        St.Clair Shores   MI      48081   75    128795       ConnieRay@outlook.com
+Ms.    Robert   Xiu         2752   Sun           Grand Rapids      MI      49505   38    158294       RobertXiu@yahoo.com
+Ms.    Ginny    Jenkins     8206   Walrus        Grand Rapids      MI      49505   30    205896       GinnyJenkins@outlook.com
+Ms.    Jessica  Cox         1958   Ravenclaw     Nashville         TN      37206   41    197318       JessicaCox@aol.com
+Mrs.   Paige    Perez       8719   Tree          Detroit           MI      48224   73    186508       PaigePerez@aol.com
+Mrs.   Brian    Sherman     4034   Apple         Nashville         TN      37206   40    162576       BrianSherman@aol.com
+Mr.    Brian    Turner      6813   Stone         Nashville         TN      37206   29    210736       BrianTurner@gmail.com
+Dr.    Susaun   Chevy       2340   Rain          Sault Ste. Marie  MI      49783   55    106442       SusaunChevy@aol.com
+Dr.    Deborah  Jenkins     1493   Hart          Orlando           FL      32805   55    176241       DeborahJenkins@aol.com
+Ms.    Sam      Toutant     1625   Pear          New York City     NY      10001   70    128744       SamToutant@clever.com
+Mrs.   Dennis   Ray         6713   Stream        Nashville         TN      37206   41    166016       DennisRay@gmail.com
+Ms.    Connie   Mosbey      7996   Turnip        Chicago           IL      60290   25    124360       ConnieMosbey@clever.com
+Mrs.   Luke     Reed        2663   Rain          Los Angeles       CA      90005   55    132037       LukeReed@outlook.com
+Rvd.   Frank    Evans       8195   Stream        Orlando           FL      32805   39    197982       FrankEvans@gmail.com
+Ms.    Fred     Bones       2332   Beer          Los Angeles       CA      90005   31    203671       FredBones@outlook.com
+Mrs.   Shawn    Stump       2559   Tree          Sault Ste. Marie  MI      49783   52    192171       ShawnStump@yahoo.com
+Ms.    Larry    Steller     6859   Apple         Chicago           IL      60290   67    155270       LarrySteller@yahoo.com
+Ms.    Jennie   Howard      6741   Jane          Los Angeles       CA      90005   57    107987       JennieHoward@gmail.com
+Mr.    Trevor   Hill        9750   Kleene        Grand Rapids      MI      49505   53    155190       TrevorHill@yahoo.com
+Dr.    April    Mosbey      7657   SouthLake     Cleveland         OH      44101   75    105352       AprilMosbey@yahoo.com
+Mr.    Deborah  Dumbledore  6697   LakeView      Orlando           FL      32805   40    158194       DeborahDumbledore@gmail.com
+Ms.    Judy     Jobs        2786   Friedline     St.Clair Shores   MI      48081   66    209363       JudyJobs@gmail.com
+Rvd.   Jose     Bonner      6605   Troll         Chicago           IL      60290   35    160849       JoseBonner@aol.com
+Rvd.   Jack     Wilson      1329   Thunder       Nashville         TN      37206   54    155736       JackWilson@aol.com
+Mrs.   Trevor   Keene       6998   Gryfindor     Grand Rapids      MI      49505   67    161673       TrevorKeene@gmail.com
+Rvd.   Eric     Weasley     4125   Plute         Sault Ste. Marie  MI      49783   43    140515       EricWeasley@clever.com
+Dr.    Kelly    Spears      4914   Stone         Grand Rapids      MI      49505   71    195897       KellySpears@yahoo.com
+Rvd.   Megan    Meijer      6302   Pines         Detroit           MI      48224   56    179839       MeganMeijer@clever.com
+Mrs.   Shawn    Kane        8421   Tigers        St.Clair Shores   MI      48081   37    111348       ShawnKane@outlook.com
+Mrs.   Jose     Jobs        7780   Noodles       Chicago           IL      60290   70    164629       JoseJobs@aol.com
+Mr.    Trace    Rausch      5367   Thunder       Nashville         TN      37206   40    198977       TraceRausch@aol.com
+Ms.    April    Wentz       5017   Lions         Chicago           IL      60290   33    212864       AprilWentz@gmail.com
+Ms.    Luna     Genovia     8755   Java          Orlando           FL      32805   18    176172       LunaGenovia@aol.com
+Mr.    Larry    Minaker     3241   Bones         Nashville         TN      37206   47    181368       LarryMinaker@yahoo.com
+Mr.    Luke     James       5189   Ravenclaw     Nashville         TN      37206   54    128097       LukeJames@clever.com
+Mr.    Caroline Keene       4932   Pear          Cleveland         OH      44101   70    153309       CarolineKeene@clever.com
+Dr.    Dennis   Verlander   5882   Walabey       Cleveland         OH      44101   59    152563       DennisVerlander@clever.com
+Ms.    Trace    Randcliff   8963   Stream        Los Angeles       CA      90005   65    163124       TraceRandcliff@outlook.com
+Mrs.   Ethel    Bell        7776   Ravenclaw     Chicago           IL      60290   44    148717       EthelBell@aol.com
+Mr.    Dennis   Xiu         9255   LakeShore     St.Clair Shores   MI      48081   39    209283       DennisXiu@outlook.com
+Mr.    Kevin    Baker       3877   Hughes        Orlando           FL      32805   19    155288       KevinBaker@yahoo.com
+Mr.    ElizabethMeijer      1354   Beer          Cleveland         OH      44101   52    108509       ElizabethMeijer@outlook.com
+Ms.    Kyle     Black       4548   Reed          St.Clair Shores   MI      48081   26    155823       KyleBlack@aol.com
+Mr.    Eric     Howard      8354   Java          Detroit           MI      48224   71    141740       EricHoward@yahoo.com
+Mr.    Colton   Ross        3350   Plute         Sault Ste. Marie  MI      49783   76    175220       ColtonRoss@yahoo.com
+Rvd.   Nevile   Lovegood    5960   Slytherin     St.Clair Shores   MI      48081   62    142118       NevileLovegood@outlook.com
+Ms.    Judy     Hunt        8754   Perl          Grand Rapids      MI      49505   42    138054       JudyHunt@gmail.com
+Mr.    Frank    Turner      1367   Dolphin       Sault Ste. Marie  MI      49783   18    190745       FrankTurner@outlook.com
+Mrs.   Ryan     Mosbey      5355   Lions         Chicago           IL      60290   51    131261       RyanMosbey@yahoo.com
+Ms.    Trace    Malfoy      6640   Java          Los Angeles       CA      90005   40    132648       TraceMalfoy@clever.com
+Mrs.   Jack     Gates       7686   Jane          Orlando           FL      32805   55    184535       JackGates@aol.com
+Rvd.   ElizabethMalfoy      4319   Apple         New York City     NY      10001   65    203455       ElizabethMalfoy@clever.com
+Ms.    Fred     Dotski      9573   Slytherin     Detroit           MI      48224   48    199105       FredDotski@aol.com
+Mr.    Daisy    Hart        5486   Tigers        Los Angeles       CA      90005   41    122230       DaisyHart@aol.com
+Ms.    Ann      Rempala     2696   LSSU          Detroit           MI      48224   68    181459       AnnRempala@yahoo.com
+Ms.    Brian    Boyd        8333   Sunshine      Orlando           FL      32805   66    148321       BrianBoyd@aol.com
+Ms.    Brittany Xiu         2446   Salad         Cleveland         OH      44101   32    201586       BrittanyXiu@yahoo.com
+Ms.    Eric     Daniels     5332   Hufflepuff    St.Clair Shores   MI      48081   52    128497       EricDaniels@gmail.com
+Ms.    Taylor   Roda        8890   Gates         Chicago           IL      60290   43    182025       TaylorRoda@gmail.com
+Mrs.   Geno     Ray         9150   Beer          Los Angeles       CA      90005   49    123923       GenoRay@gmail.com
+Rvd.   Adam     Hunt        4480   May           Detroit           MI      48224   73    195160       AdamHunt@aol.com
+Mrs.   ElizabethHunt        4591   Kleene        St.Clair Shores   MI      48081   58    210854       ElizabethHunt@yahoo.com
+Ms.    Hannah   Ross        3718   Pines         Cleveland         OH      44101   49    185702       HannahRoss@clever.com
+Mrs.   Connie   Hartman     3374   Pear          Chicago           IL      60290   18    222102       ConnieHartman@outlook.com
+Ms.    John     Jenkins     8072   Kennedy       Detroit           MI      48224   54    179512       JohnJenkins@clever.com
+Ms.    Michelle Roda        3935   Steller       New York City     NY      10001   75    192354       MichelleRoda@gmail.com
+Ms.    Laura    Evans       8369   Bestie        Detroit           MI      48224   47    128041       LauraEvans@clever.com
+Mr.    Brian    Minaker     3297   Perl          St.Clair Shores   MI      48081   55    115074       BrianMinaker@gmail.com
+Ms.    Ann      Carlson     6778   Troll         Detroit           MI      48224   60    135702       AnnCarlson@yahoo.com
+Dr.    Ethel    Microsoft   8593   Hill          Detroit           MI      48224   75    185460       EthelMicrosoft@yahoo.com
+Mrs.   Raymond  Moody       1682   Orange        Cleveland         OH      44101   53    113997       RaymondMoody@clever.com
+Mrs.   Wanda    Gates       8249   Bones         Nashville         TN      37206   46    123025       WandaGates@clever.com
+Dr.    Karen    Longbottom  6769   Friday        Chicago           IL      60290   37    216382       KarenLongbottom@outlook.com
+Mrs.   Lori     Jobs        7782   Plute         Cleveland         OH      44101   39    130231       LoriJobs@clever.com
+Mr.    Laura    Dumbledore  4962   Bonner        Nashville         TN      37206   52    166945       LauraDumbledore@outlook.com
+Ms.    Kelly    Pickles     1514   Cook          Nashville         TN      37206   31    216511       KellyPickles@aol.com
+Mrs.   June     Gates       9617   Java          Chicago           IL      60290   41    122730       JuneGates@outlook.com
+Dr.    Taylor   Dumbledore  4201   Ravenclaw     Los Angeles       CA      90005   62    171170       TaylorDumbledore@yahoo.com
+Mr.    Trace    Jenkins     5742   Reed          St.Clair Shores   MI      48081   48    199023       TraceJenkins@clever.com
+Mr.    Larry    Keene       5683   Wombat        Chicago           IL      60290   25    113510       LarryKeene@clever.com
+Dr.    Ron      Genovia     6442   Horse         Nashville         TN      37206   25    132523       RonGenovia@aol.com
+Dr.    Luna     Sherman     7504   Tigers        Nashville         TN      37206   77    158930       LunaSherman@clever.com
+Mrs.   Laura    Pickles     2712   Lions         St.Clair Shores   MI      48081   50    145470       LauraPickles@outlook.com
+Mr.    Shawn    Bevridge    7831   Kleene        Orlando           FL      32805   33    142639       ShawnBevridge@aol.com
+Dr.    Hannah   Friedline   1921   Bears         New York City     NY      10001   27    201493       HannahFriedline@outlook.com
+Mr.    Daisy    Xiu         4778   Pines         Nashville         TN      37206   35    214881       DaisyXiu@aol.com
+Mr.    Taylor   Evans       7154   Plute         Chicago           IL      60290   33    123105       TaylorEvans@aol.com
+Mr.    Trevor   Kane        7298   Stream        Sault Ste. Marie  MI      49783   39    118148       TrevorKane@aol.com
+Mrs.   Michelle Evans       5491   Dolphin       Nashville         TN      37206   27    119252       MichelleEvans@aol.com
+Mrs.   Ginny    Fields      9551   Dolphin       Sault Ste. Marie  MI      49783   31    167569       GinnyFields@aol.com
+Mr.    Jean     Thornberry  9574   Moon          Grand Rapids      MI      49505   51    156570       JeanThornberry@outlook.com
+Ms.    Paige    Whiteman    4919   Ravenclaw     St.Clair Shores   MI      48081   42    124993       PaigeWhiteman@gmail.com
+Mr.    Karen    Malfoy      3875   Bestie        Detroit           MI      48224   47    114230       KarenMalfoy@clever.com
+Ms.    April    Whiteman    5375   Stream        Nashville         TN      37206   60    178873       AprilWhiteman@outlook.com
+Mr.    Jose     Kroger      7355   High          Grand Rapids      MI      49505   65    157103       JoseKroger@gmail.com
+Rvd.   April    Jenkins     6705   Easterday     Detroit           MI      48224   67    179451       AprilJenkins@outlook.com
+Mr.    Brittany Steller     8381   Bonner        Sault Ste. Marie  MI      49783   32    189349       BrittanySteller@aol.com
+Ms.    Alice    Malfoy      4352   LSSU          Nashville         TN      37206   24    159541       AliceMalfoy@yahoo.com
+Rvd.   Polly    Thornberry  9180   River         Orlando           FL      32805   64    221314       PollyThornberry@gmail.com
+Dr.    Jack     Sanders     2891   Pear          Grand Rapids      MI      49505   30    145661       JackSanders@aol.com
+Mr.    Wanda    Whiteman    9841   Slytherin     Detroit           MI      48224   23    145912       WandaWhiteman@gmail.com
+Mr.    June     Microsoft   2327   Java          Los Angeles       CA      90005   43    208979       JuneMicrosoft@gmail.com
+Ms.    Judy     Rausch      6422   Kennedy       Chicago           IL      60290   37    116711       JudyRausch@clever.com
+Mrs.   Alice    Howard      9074   Java          Cleveland         OH      44101   38    189415       AliceHoward@clever.com
+Mr.    Polly    Sherman     8978   Moon          Grand Rapids      MI      49505   34    195775       PollySherman@outlook.com
+Ms.    Trevor   Bonner      5366   Cook          Chicago           IL      60290   70    102202       TrevorBonner@yahoo.com
+Ms.    Wanda    Carlson     2560   Rain          Sault Ste. Marie  MI      49783   61    159343       WandaCarlson@yahoo.com
+Mrs.   Jean     Moody       5753   Wombat        New York City     NY      10001   71    188234       JeanMoody@clever.com
+Mr.    Draco    Daniels     9947   Bestie        Orlando           FL      32805   20    185739       DracoDaniels@outlook.com
+Mr.    Trace    Ross        6357   Hill          Los Angeles       CA      90005   62    145083       TraceRoss@aol.com
+Dr.    Harry    Thornberry  2680   Bears         Orlando           FL      32805   72    186846       HarryThornberry@aol.com
+Ms.    Ethel    Hill        1428   Lions         Orlando           FL      32805   29    189955       EthelHill@aol.com
+Mrs.   Dylan    Boyd        1705   Bread         New York City     NY      10001   57    151415       DylanBoyd@clever.com
+Mr.    Kevin    Daniels     3517   Gryfindor     Chicago           IL      60290   70    122285       KevinDaniels@aol.com
+Mrs.   ChristinePalmers     4738   Sunshine      Nashville         TN      37206   28    151899       ChristinePalmers@aol.com
+Ms.    Janice   Mosbey      9744   Moon          New York City     NY      10001   52    136685       JaniceMosbey@yahoo.com
+Mrs.   Kelly    Keys        2740   December      Cleveland         OH      44101   75    142413       KellyKeys@aol.com
+Mrs.   Molly    Carlson     8273   Turnip        Cleveland         OH      44101   45    171625       MollyCarlson@clever.com
+Mrs.   Judy     Cook        8886   Walabey       Orlando           FL      32805   44    203298       JudyCook@clever.com
+Mrs.   Jack     Dumbledore  1698   Hill          Orlando           FL      32805   23    193503       JackDumbledore@aol.com
+Rvd.   Alice    Sanders     8170   Hart          Cleveland         OH      44101   38    100803       AliceSanders@yahoo.com
+Dr.    Deborah  Evans       9055   Bestie        Grand Rapids      MI      49505   43    216943       DeborahEvans@clever.com
+Dr.    Robert   Roda        1200   Ocean         Cleveland         OH      44101   50    142260       RobertRoda@clever.com
+Mrs.   Sam      Jenkins     9925   Oaks          Orlando           FL      32805   33    102408       SamJenkins@aol.com
+Mrs.   Kyle     Ray         1375   Wind          Los Angeles       CA      90005   18    135184       KyleRay@yahoo.com
+Mr.    Judy     Verlander   2285   Dolphin       Sault Ste. Marie  MI      49783   56    191312       JudyVerlander@yahoo.com
+Dr.    John     Daniels     6742   Thunder       Chicago           IL      60290   33    214680       JohnDaniels@yahoo.com
+Mrs.   Caroline Verlander   4833   Short         Nashville         TN      37206   22    202200       CarolineVerlander@yahoo.com
+Mr.    Julie    Mosbey      1857   Sherman       Nashville         TN      37206   53    171542       JulieMosbey@aol.com
+Mrs.   Ginny    Keys        7506   LakeShore     St.Clair Shores   MI      48081   36    104630       GinnyKeys@gmail.com
+Mrs.   Dennis   Bevridge    2931   Horse         Detroit           MI      48224   27    167446       DennisBevridge@clever.com
+Mr.    Ethel    Sherman     6587   Pines         Grand Rapids      MI      49505   20    132981       EthelSherman@outlook.com
+Ms.    June     Gates       6033   Bestie        New York City     NY      10001   49    131673       JuneGates@outlook.com
+Ms.    Jennie   Dumbledore  3877   Friedline     New York City     NY      10001   71    139600       JennieDumbledore@yahoo.com
+Ms.    Jack     Archer      5335   Gaffke        Los Angeles       CA      90005   24    202727       JackArcher@aol.com
+Mrs.   June     Verlander   7275   Easterday     Detroit           MI      48224   49    153501       JuneVerlander@clever.com
+Dr.    Robert   Wentz       6492   Hufflepuff    Grand Rapids      MI      49505   71    183638       RobertWentz@gmail.com
+Mr.    Colton   Ford        8061   Java          Nashville         TN      37206   23    125654       ColtonFord@clever.com
+Mr.    Polly    Wentz       2214   Gates         Chicago           IL      60290   46    179520       PollyWentz@gmail.com
+Mrs.   Karen    Meijer      8135   Bones         Orlando           FL      32805   45    163618       KarenMeijer@gmail.com
+Dr.    Shawn    Mosbey      7677   SouthLake     Nashville         TN      37206   54    162067       ShawnMosbey@outlook.com
+Rvd.   Judy     Long        3642   Sunshine      Cleveland         OH      44101   34    174887       JudyLong@aol.com
+Mrs.   Kelly    Friedline   1586   Noodles       Chicago           IL      60290   57    195188       KellyFriedline@clever.com
+Dr.    Geno     Sherman     5109   Java          Sault Ste. Marie  MI      49783   38    102804       GenoSherman@outlook.com
+Mr.    Geno     Microsoft   4588   Thunder       Chicago           IL      60290   33    114917       GenoMicrosoft@clever.com
+Ms.    Wanda    Ford        9396   Bears         Nashville         TN      37206   57    162560       WandaFord@outlook.com
+Ms.    Susaun   Dumbledore  8622   Bears         St.Clair Shores   MI      48081   56    127085       SusaunDumbledore@yahoo.com
+Mrs.   Karen    Cox         6658   Thunder       Chicago           IL      60290   61    215744       KarenCox@aol.com
+Ms.    Caroline Reed        5802   Troll         Nashville         TN      37206   49    106670       CarolineReed@yahoo.com
+Mr.    Taylor   Daniels     3819   Hughes        Cleveland         OH      44101   21    196168       TaylorDaniels@outlook.com
+Rvd.   June     Wilson      8188   Vodka         Nashville         TN      37206   45    176295       JuneWilson@clever.com
+Ms.    Ann      Winchester  2323   Wind          Sault Ste. Marie  MI      49783   52    130696       AnnWinchester@outlook.com
+Mrs.   Brian    Gates       8732   Friedline     Nashville         TN      37206   60    220107       BrianGates@aol.com
+Ms.    Dylan    Black       1347   Noodles       St.Clair Shores   MI      48081   59    101945       DylanBlack@outlook.com
+Ms.    Adam     Mason       5276   Gates         Chicago           IL      60290   62    171467       AdamMason@outlook.com
+Mr.    Megan    Microsoft   9526   Friday        Chicago           IL      60290   41    139806       MeganMicrosoft@yahoo.com
+Mrs.   Ginny    Long        1155   SouthLake     St.Clair Shores   MI      48081   58    163901       GinnyLong@clever.com
+Mrs.   Draco    Howard      5090   Plute         Orlando           FL      32805   70    146453       DracoHoward@yahoo.com
+Mr.    Jennie   Genovia     4510   Flower        Los Angeles       CA      90005   23    161217       JennieGenovia@aol.com
+Rvd.   Emily    Xiu         5608   Salad         Los Angeles       CA      90005   31    133624       EmilyXiu@outlook.com
+Mrs.   Janet    Sanders     9999   Java          Orlando           FL      32805   57    140607       JanetSanders@clever.com
+Ms.    Megan    Winchester  8926   Stream        Nashville         TN      37206   64    136262       MeganWinchester@yahoo.com
+Dr.    James    Lovegood    3252   Walabey       Cleveland         OH      44101   31    110136       JamesLovegood@clever.com
+Rvd.   Colton   Malfoy      3482   SouthLake     Detroit           MI      48224   39    197636       ColtonMalfoy@gmail.com
+Mr.    Chris    Hunt        9366   Party         Chicago           IL      60290   19    104192       ChrisHunt@clever.com
+Ms.    Ryan     Bell        6839   Troll         St.Clair Shores   MI      48081   39    110933       RyanBell@aol.com
+Mrs.   Paul     Li          9221   Tigers        Cleveland         OH      44101   61    216656       PaulLi@yahoo.com
+Ms.    Connie   Turner      9184   Flower        Detroit           MI      48224   40    131106       ConnieTurner@outlook.com
+Ms.    Nevile   Bell        7378   Bones         Los Angeles       CA      90005   71    137641       NevileBell@aol.com
+Dr.    Laura    Ray         9512   Plute         Sault Ste. Marie  MI      49783   32    219570       LauraRay@outlook.com
+Ms.    Nevile   Williams    4861   Oaks          Orlando           FL      32805   45    214798       NevileWilliams@aol.com
+Rvd.   Ethel    Weasley     3540   Ocean         New York City     NY      10001   47    183299       EthelWeasley@aol.com
+Ms.    Raymond  Scott       2862   Plute         Cleveland         OH      44101   37    178124       RaymondScott@gmail.com
+Rvd.   Luna     Hunt        3269   Cook          Los Angeles       CA      90005   66    176724       LunaHunt@aol.com
+Rvd.   Dennis   Kroger      2814   Perl          Nashville         TN      37206   46    171042       DennisKroger@outlook.com
+Mrs.   Geno     Wallo       3646   Gates         Orlando           FL      32805   21    164116       GenoWallo@outlook.com
+Ms.    Jose     Long        6577   Gaffke        Sault Ste. Marie  MI      49783   54    202267       JoseLong@clever.com
+Mr.    Matt     Perez       6198   Wombat        Chicago           IL      60290   37    164684       MattPerez@aol.com
+Mr.    Karen    Whiteman    3163   Slytherin     Cleveland         OH      44101   44    169271       KarenWhiteman@gmail.com
+Ms.    Shawn    Cox         8961   Stone         Grand Rapids      MI      49505   65    178375       ShawnCox@yahoo.com
+Mrs.   Connie   Bell        9556   Hart          Nashville         TN      37206   60    106263       ConnieBell@yahoo.com
+Dr.    Jessica  Archer      4688   Stream        Detroit           MI      48224   51    143015       JessicaArcher@yahoo.com
+Mr.    Emily    Microsoft   2413   May           St.Clair Shores   MI      48081   26    110538       EmilyMicrosoft@aol.com
+Mr.    Harry    Black       3452   Perl          Los Angeles       CA      90005   29    216474       HarryBlack@clever.com
+Mrs.   Dennis   Moody       2328   Steller       Sault Ste. Marie  MI      49783   26    134061       DennisMoody@gmail.com
+Mrs.   Janet    Stump       3561   Pear          Sault Ste. Marie  MI      49783   54    209036       JanetStump@aol.com
+Mr.    Susaun   Steller     8302   Bestie        Cleveland         OH      44101   41    179980       SusaunSteller@outlook.com
+Mrs.   Emily    Sun         6839   Storm         Grand Rapids      MI      49505   66    220030       EmilySun@clever.com
